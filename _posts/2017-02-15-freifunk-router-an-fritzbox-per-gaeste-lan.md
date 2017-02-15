@@ -11,6 +11,8 @@ permalink: http://vogtland.freifunk.net/?p=691
 published: true
 vantage_panels_no_legacy:
   - 'true'
+siteorigin_page_settings:
+  - 'a:6:{s:6:"layout";s:7:"default";s:10:"page_title";b:1;s:15:"masthead_margin";b:1;s:13:"footer_margin";b:1;s:13:"hide_masthead";b:0;s:19:"hide_footer_widgets";b:0;}'
 ---
 Wenn man Beseitzer einer aktuellen FritzBox und der Option ein Gästenetzwerk an dem LAN-Port 4 schalten kann, ist es damit möglich die Bandbreite eines Ferifunk-Routers einfach automatisch drosseln zulassen. Somit haben alle Verbindungen im eigenen Netzwerk Vorrang und sollte der Download oder das Streaming beendet werden, wird wieder mehr Bandbreite für den Freifunk-Router freigegeben.
 
