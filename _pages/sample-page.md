@@ -11,17 +11,15 @@ dojodigital_toggle_title:
   - 'on'
 panels_data:
   - |
-    a:3:{s:7:"widgets";a:2:{i:0;a:6:{s:5:"title";s:0:"";s:4:"text";s:1666:"Freifunk steht für freie Kommunikation in digitalen Datennetzen. Wir verstehen frei als öffentlich zugänglich, nicht kommerziell, im Besitz der Gemeinschaft und unzensiert.
+    a:3:{s:7:"widgets";a:2:{i:0;a:6:{s:5:"title";s:0:"";s:4:"text";s:1115:"Freifunk steht für freie Kommunikation in digitalen Datennetzen. Wir verstehen frei als öffentlich zugänglich, nicht kommerziell, im Besitz der Gemeinschaft und unzensiert.
     
     Die Ziele von Freifunk Vogtland e.V. sind die Vernetzung des gesamten <a class="profileLink" href="https://www.facebook.com/UrlaubimVogtland/" data-hovercard="/ajax/hovercard/page.php?id=125288537486273">VOGTLAND</a>s zur Steigerung der Lebensqualität und zur Verbesserung der Attraktivität.
     
     Freifunk ist völlig kostenlos und wird durch Spenden finanziert. Mit Freifunk können auch Laden- und Gast­stättenbesitzer ihren Kunden und Gästen ohne großen finanziellen Auf­wand und verbunden mit dem Schutz vor der sogenannten Störer­haftung einen echten Mehr­wert bieten.
     <h3 class="widget-title">Freifunk verbindet! Jeder kann ein Freifunker sein.</h3>
-    <h3 class="widget-title"></h3>
-    <object class="StefanoAI-youtube-responsive fitvidsignore " type="application/video" width="160" height="90"><iframe id="StefanoAI-youtube-1" class="StefanoAI-youtube-responsive " width="160" height="90" src="//www.youtube.com/embed/2Z12OjnPADA?&amp;autohide=2&amp;color=white&amp;controls=1&amp;disablekb=0&amp;fs=1&amp;iv_load_policy=1&amp;modestbranding=0&amp;rel=0&amp;showinfo=0&amp;theme=light&amp;vq=default" allowfullscreen="allowfullscreen" style="border: none;"></iframe></object>
+    
     <h3 class="widget-title">Wie kann ich Freifunk benutzen?</h3>
-    Das geht ganz einfach – und ohne Pass­wort, ohne Registrierung und natürlich auch ohne Kosten. In den WLAN-Ein­stellungen einfach das folgende Netz­werk (SSID) wählen: <strong>vogtland.freifunk.net</strong>
-    <p class="cff-post-text"></p>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"58a4aacd531ef";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:9:"widget_id";s:36:"32d59fc3-348f-4078-b342-ad939cad52cd";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:1;a:4:{s:5:"title";s:11:"Neuigkeiten";s:4:"text";s:22:"[custom-facebook-feed]";s:6:"filter";b:0;s:11:"panels_info";a:7:{s:5:"class";s:14:"WP_Widget_Text";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:1;s:9:"widget_id";s:36:"eee1eb75-6883-4493-8b42-e626deb869ca";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}}s:5:"grids";a:1:{i:0;a:2:{s:5:"cells";i:1;s:5:"style";a:0:{}}}s:10:"grid_cells";a:1:{i:0;a:2:{s:4:"grid";i:0;s:6:"weight";i:1;}}}
+    Das geht ganz einfach – und ohne Pass­wort, ohne Registrierung und natürlich auch ohne Kosten. In den WLAN-Ein­stellungen einfach das folgende Netz­werk (SSID) wählen: <strong>vogtland.freifunk.net</strong>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"58a4aacd531ef";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:9:"widget_id";s:36:"32d59fc3-348f-4078-b342-ad939cad52cd";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:1;a:4:{s:5:"title";s:11:"Neuigkeiten";s:4:"text";s:22:"[custom-facebook-feed]";s:6:"filter";b:0;s:11:"panels_info";a:7:{s:5:"class";s:14:"WP_Widget_Text";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:1;s:9:"widget_id";s:36:"eee1eb75-6883-4493-8b42-e626deb869ca";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}}s:5:"grids";a:1:{i:0;a:2:{s:5:"cells";i:1;s:5:"style";a:0:{}}}s:10:"grid_cells";a:1:{i:0;a:2:{s:4:"grid";i:0;s:6:"weight";i:1;}}}
 vantage_metaslider_slider:
   - ""
 vantage_metaslider_slider_stretch:
@@ -31,7 +29,7 @@ vantage_panels_no_legacy:
 vantage_menu_icon:
   - ""
 siteorigin_page_settings:
-  - 'a:6:{s:6:"layout";s:7:"default";s:10:"page_title";b:1;s:15:"masthead_margin";b:1;s:13:"footer_margin";b:1;s:13:"hide_masthead";b:0;s:19:"hide_footer_widgets";b:0;}'
+  - 'a:7:{s:6:"layout";s:7:"default";s:10:"page_title";b:1;s:15:"masthead_margin";b:1;s:13:"footer_margin";b:1;s:14:"featured_image";b:0;s:13:"hide_masthead";b:0;s:19:"hide_footer_widgets";b:0;}'
 ---
 <p>Freifunk steht für freie Kommunikation in digitalen Datennetzen. Wir verstehen frei als öffentlich zugänglich, nicht kommerziell, im Besitz der Gemeinschaft und unzensiert.</p>
 <p>Die Ziele von Freifunk Vogtland e.V. sind die Vernetzung des gesamten <a class="profileLink" href="https://www.facebook.com/UrlaubimVogtland/" data-hovercard="/ajax/hovercard/page.php?id=125288537486273">VOGTLAND</a>s zur Steigerung der Lebensqualität und zur Verbesserung der Attraktivität.</p>
