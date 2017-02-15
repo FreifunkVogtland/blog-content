@@ -1,10 +1,16 @@
 ---
-post_title: Freifunk-Router an Fritzbox per Gäste-LAN
+ID: 691
+post_title: >
+  Freifunk-Router an Fritzbox per
+  Gäste-LAN
 author: Enno
-post_date: 2016-07-25 23:58:29
+post_date: 2017-02-15 18:47:42
 post_excerpt: ""
 layout: post
+permalink: http://vogtland.freifunk.net/?p=691
 published: true
+vantage_panels_no_legacy:
+  - 'true'
 ---
 Wenn man Beseitzer einer aktuellen FritzBox und der Option ein Gästenetzwerk an dem LAN-Port 4 schalten kann, ist es damit möglich die Bandbreite eines Ferifunk-Routers einfach automatisch drosseln zulassen. Somit haben alle Verbindungen im eigenen Netzwerk Vorrang und sollte der Download oder das Streaming beendet werden, wird wieder mehr Bandbreite für den Freifunk-Router freigegeben.
 
