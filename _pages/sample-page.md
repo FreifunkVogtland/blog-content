@@ -11,7 +11,7 @@ dojodigital_toggle_title:
   - 'on'
 panels_data:
   - |
-    a:3:{s:7:"widgets";a:3:{i:0;a:16:{s:5:"title";s:9:"Freifunk?";s:11:"title_color";s:0:"";s:4:"text";s:122:"Was ist Freifunk? Freifunk ist eine nicht-kommerzielle Initiative zum Aufbau von stadtweiten Datennetzen mit WLAN-Geräten";s:10:"text_color";s:0:"";s:4:"icon";s:10:"fa fa-wifi";s:10:"icon_color";s:7:"#ffffff";s:21:"icon_background_color";s:7:"#dc0067";s:5:"image";s:0:"";s:13:"icon_position";s:3:"top";s:9:"icon_size";s:5:"small";s:4:"more";s:10:"Mehr Infos";s:8:"more_url";s:0:"";s:12:"all_linkable";b:1;s:11:"panels_info";a:6:{s:5:"class";s:25:"Vantage_CircleIcon_Widget";s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:9:"widget_id";s:36:"30490529-4584-4d35-bc60-39e2bc3212d0";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}s:3:"box";b:0;s:11:"more_target";b:0;}i:1;a:6:{s:5:"title";s:0:"";s:4:"text";s:1115:"Freifunk steht für freie Kommunikation in digitalen Datennetzen. Wir verstehen frei als öffentlich zugänglich, nicht kommerziell, im Besitz der Gemeinschaft und unzensiert.
+    a:3:{s:7:"widgets";a:3:{i:0;a:16:{s:5:"title";s:9:"Freifunk?";s:11:"title_color";s:0:"";s:4:"text";s:122:"Was ist Freifunk? Freifunk ist eine nicht-kommerzielle Initiative zum Aufbau von stadtweiten Datennetzen mit WLAN-Geräten";s:10:"text_color";s:0:"";s:4:"icon";s:10:"fa fa-wifi";s:10:"icon_color";s:7:"#ffffff";s:21:"icon_background_color";s:7:"#dc0067";s:5:"image";s:0:"";s:13:"icon_position";s:3:"top";s:9:"icon_size";s:5:"small";s:4:"more";s:10:"Mehr Infos";s:8:"more_url";s:40:"http://vogtland.freifunk.net/?page_id=20";s:12:"all_linkable";b:1;s:11:"panels_info";a:6:{s:5:"class";s:25:"Vantage_CircleIcon_Widget";s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:9:"widget_id";s:36:"30490529-4584-4d35-bc60-39e2bc3212d0";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}s:3:"box";b:0;s:11:"more_target";b:0;}i:1;a:6:{s:5:"title";s:0:"";s:4:"text";s:1115:"Freifunk steht für freie Kommunikation in digitalen Datennetzen. Wir verstehen frei als öffentlich zugänglich, nicht kommerziell, im Besitz der Gemeinschaft und unzensiert.
     
     Die Ziele von Freifunk Vogtland e.V. sind die Vernetzung des gesamten <a class="profileLink" href="https://www.facebook.com/UrlaubimVogtland/" data-hovercard="/ajax/hovercard/page.php?id=125288537486273">VOGTLAND</a>s zur Steigerung der Lebensqualität und zur Verbesserung der Attraktivität.
     
@@ -31,8 +31,10 @@ vantage_menu_icon:
 siteorigin_page_settings:
   - 'a:6:{s:6:"layout";s:7:"default";s:10:"page_title";b:1;s:15:"masthead_margin";b:1;s:13:"footer_margin";b:1;s:13:"hide_masthead";b:0;s:19:"hide_footer_widgets";b:0;}'
 ---
-<h4>Freifunk?</h4>			
-<p class="text">Was ist Freifunk? Freifunk ist eine nicht-kommerzielle Initiative zum Aufbau von stadtweiten Datennetzen mit WLAN-Geräten</p>					
+<a href="http://vogtland.freifunk.net/?page_id=20" class="link-icon">				
+</a>			
+<a href="http://vogtland.freifunk.net/?page_id=20" class="link-title">			<h4>Freifunk?</h4>			</a>
+<p class="text">Was ist Freifunk? Freifunk ist eine nicht-kommerzielle Initiative zum Aufbau von stadtweiten Datennetzen mit WLAN-Geräten</p>							<a href="http://vogtland.freifunk.net/?page_id=20" class="more-button">Mehr Infos <i></i></a>
 <p>Freifunk steht für freie Kommunikation in digitalen Datennetzen. Wir verstehen frei als öffentlich zugänglich, nicht kommerziell, im Besitz der Gemeinschaft und unzensiert.</p>
 <p>Die Ziele von Freifunk Vogtland e.V. sind die Vernetzung des gesamten <a class="profileLink" href="https://www.facebook.com/UrlaubimVogtland/" data-hovercard="/ajax/hovercard/page.php?id=125288537486273">VOGTLAND</a>s zur Steigerung der Lebensqualität und zur Verbesserung der Attraktivität.</p>
 <p>Freifunk ist völlig kostenlos und wird durch Spenden finanziert. Mit Freifunk können auch Laden- und Gast­stättenbesitzer ihren Kunden und Gästen ohne großen finanziellen Auf­wand und verbunden mit dem Schutz vor der sogenannten Störer­haftung einen echten Mehr­wert bieten.</p>
