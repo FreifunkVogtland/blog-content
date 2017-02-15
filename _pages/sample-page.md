@@ -11,7 +11,7 @@ dojodigital_toggle_title:
   - 'on'
 panels_data:
   - |
-    a:3:{s:7:"widgets";a:4:{i:0;a:3:{s:9:"slider_id";s:3:"574";s:5:"title";s:0:"";s:11:"panels_info";a:6:{s:5:"class";s:17:"MetaSlider_Widget";s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:9:"widget_id";s:36:"c8a17a78-ca2c-4072-8a8b-f7aaab2c1dcd";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:1;a:37:{s:5:"title";s:0:"";s:5:"video";s:35:"//www.youtube.com/embed/2Z12OjnPADA";s:8:"autohide";s:1:"1";s:8:"autoplay";i:0;s:4:"mute";i:0;s:7:"cc_load";i:0;s:7:"cc_lang";s:2:"de";s:5:"color";s:5:"white";s:8:"controls";s:1:"0";s:9:"disablekb";i:0;s:5:"end_m";s:1:"0";s:5:"end_s";s:1:"0";s:15:"allowfullscreen";s:1:"1";s:14:"iv_load_policy";i:3;s:4:"loop";i:0;s:14:"modestbranding";i:1;s:9:"suggested";i:0;s:8:"showinfo";i:0;s:7:"start_m";s:1:"0";s:7:"start_s";s:1:"0";s:5:"theme";s:5:"light";s:7:"quality";s:7:"default";s:5:"class";s:0:"";s:5:"style";s:0:"";s:4:"maxw";s:0:"";s:3:"w3c";i:1;s:7:"privacy";s:1:"1";s:5:"wmode";i:0;s:5:"track";i:0;s:13:"image_preview";s:0:"";s:14:"schemaorg_name";s:0:"";s:21:"schemaorg_description";s:0:"";s:19:"schemaorg_durationm";s:0:"";s:19:"schemaorg_durations";s:0:"";s:20:"schemaorg_uploaddate";s:0:"";s:19:"schemaorg_thumbnail";s:0:"";s:11:"panels_info";a:7:{s:5:"class";s:17:"YouTubeResponsive";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:1;s:9:"widget_id";s:36:"ee0267ef-88dd-4221-8ef7-de7d1908c28d";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:2;a:6:{s:5:"title";s:0:"";s:4:"text";s:1666:"Freifunk steht für freie Kommunikation in digitalen Datennetzen. Wir verstehen frei als öffentlich zugänglich, nicht kommerziell, im Besitz der Gemeinschaft und unzensiert.
+    a:3:{s:7:"widgets";a:3:{i:0;a:37:{s:5:"title";s:0:"";s:5:"video";s:35:"//www.youtube.com/embed/2Z12OjnPADA";s:8:"autohide";s:1:"1";s:8:"autoplay";i:0;s:4:"mute";i:0;s:7:"cc_load";i:0;s:7:"cc_lang";s:2:"de";s:5:"color";s:5:"white";s:8:"controls";s:1:"0";s:9:"disablekb";i:0;s:5:"end_m";s:1:"0";s:5:"end_s";s:1:"0";s:15:"allowfullscreen";s:1:"1";s:14:"iv_load_policy";i:3;s:4:"loop";i:0;s:14:"modestbranding";i:1;s:9:"suggested";i:0;s:8:"showinfo";i:0;s:7:"start_m";s:1:"0";s:7:"start_s";s:1:"0";s:5:"theme";s:5:"light";s:7:"quality";s:7:"default";s:5:"class";s:0:"";s:5:"style";s:0:"";s:4:"maxw";s:0:"";s:3:"w3c";i:1;s:7:"privacy";s:1:"1";s:5:"wmode";i:0;s:5:"track";i:0;s:13:"image_preview";s:0:"";s:14:"schemaorg_name";s:0:"";s:21:"schemaorg_description";s:0:"";s:19:"schemaorg_durationm";s:0:"";s:19:"schemaorg_durations";s:0:"";s:20:"schemaorg_uploaddate";s:0:"";s:19:"schemaorg_thumbnail";s:0:"";s:11:"panels_info";a:7:{s:5:"class";s:17:"YouTubeResponsive";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:9:"widget_id";s:36:"ee0267ef-88dd-4221-8ef7-de7d1908c28d";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:1;a:6:{s:5:"title";s:0:"";s:4:"text";s:1666:"Freifunk steht für freie Kommunikation in digitalen Datennetzen. Wir verstehen frei als öffentlich zugänglich, nicht kommerziell, im Besitz der Gemeinschaft und unzensiert.
     
     Die Ziele von Freifunk Vogtland e.V. sind die Vernetzung des gesamten <a class="profileLink" href="https://www.facebook.com/UrlaubimVogtland/" data-hovercard="/ajax/hovercard/page.php?id=125288537486273">VOGTLAND</a>s zur Steigerung der Lebensqualität und zur Verbesserung der Attraktivität.
     
@@ -21,7 +21,7 @@ panels_data:
     <object class="StefanoAI-youtube-responsive fitvidsignore " type="application/video" width="160" height="90"><iframe id="StefanoAI-youtube-1" class="StefanoAI-youtube-responsive " width="160" height="90" src="//www.youtube.com/embed/2Z12OjnPADA?&amp;autohide=2&amp;color=white&amp;controls=1&amp;disablekb=0&amp;fs=1&amp;iv_load_policy=1&amp;modestbranding=0&amp;rel=0&amp;showinfo=0&amp;theme=light&amp;vq=default" allowfullscreen="allowfullscreen" style="border: none;"></iframe></object>
     <h3 class="widget-title">Wie kann ich Freifunk benutzen?</h3>
     Das geht ganz einfach – und ohne Pass­wort, ohne Registrierung und natürlich auch ohne Kosten. In den WLAN-Ein­stellungen einfach das folgende Netz­werk (SSID) wählen: <strong>vogtland.freifunk.net</strong>
-    <p class="cff-post-text"></p>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"58a4aacd531ef";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:2;s:9:"widget_id";s:36:"32d59fc3-348f-4078-b342-ad939cad52cd";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:3;a:4:{s:5:"title";s:11:"Neuigkeiten";s:4:"text";s:22:"[custom-facebook-feed]";s:6:"filter";b:0;s:11:"panels_info";a:7:{s:5:"class";s:14:"WP_Widget_Text";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:3;s:9:"widget_id";s:36:"eee1eb75-6883-4493-8b42-e626deb869ca";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}}s:5:"grids";a:2:{i:0;a:2:{s:5:"cells";i:1;s:5:"style";a:0:{}}i:1;a:2:{s:5:"cells";i:1;s:5:"style";a:0:{}}}s:10:"grid_cells";a:2:{i:0;a:2:{s:4:"grid";i:0;s:6:"weight";i:1;}i:1;a:2:{s:4:"grid";i:1;s:6:"weight";i:1;}}}
+    <p class="cff-post-text"></p>";s:20:"text_selected_editor";s:4:"html";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"58a4aacd531ef";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:1;s:9:"widget_id";s:36:"32d59fc3-348f-4078-b342-ad939cad52cd";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:2;a:4:{s:5:"title";s:11:"Neuigkeiten";s:4:"text";s:22:"[custom-facebook-feed]";s:6:"filter";b:0;s:11:"panels_info";a:7:{s:5:"class";s:14:"WP_Widget_Text";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:2;s:9:"widget_id";s:36:"eee1eb75-6883-4493-8b42-e626deb869ca";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}}s:5:"grids";a:2:{i:0;a:2:{s:5:"cells";i:1;s:5:"style";a:0:{}}i:1;a:2:{s:5:"cells";i:1;s:5:"style";a:0:{}}}s:10:"grid_cells";a:2:{i:0;a:2:{s:4:"grid";i:0;s:6:"weight";i:1;}i:1;a:2:{s:4:"grid";i:1;s:6:"weight";i:1;}}}
 vantage_metaslider_slider:
   - ""
 vantage_metaslider_slider_stretch:
@@ -33,33 +33,7 @@ vantage_menu_icon:
 siteorigin_page_settings:
   - 'a:6:{s:6:"layout";s:7:"default";s:10:"page_title";b:1;s:15:"masthead_margin";b:1;s:13:"footer_margin";b:1;s:13:"hide_masthead";b:0;s:19:"hide_footer_widgets";b:0;}'
 ---
-<!-- meta slider -->
-<ul class="slides">
-</ul>
-<script type="text/javascript">
-var metaslider_574 = function($) {
-$('#metaslider_574').addClass('flexslider'); // theme/plugin conflict avoidance
-$('#metaslider_574').flexslider({ 
-slideshowSpeed:3000,
-animation:"random",
-controlNav:1,
-directionNav:1,
-pauseOnHover:1,
-direction:"horizontal",
-reverse:false,
-animationSpeed:600,
-prevText:"&lt;",
-nextText:"&gt;",
-easing:"linear",
-slideshow:1
-});
-};
-var timer_metaslider_574 = function() {
-var slider = !window.jQuery ? window.setTimeout(timer_metaslider_574, 100) : !jQuery.isReady ? window.setTimeout(timer_metaslider_574, 1) : metaslider_574(window.jQuery);
-};
-timer_metaslider_574();
-</script>
-<!--// meta slider--><h3 class="widget-title"></h3><object class="StefanoAI-youtube-responsive fitvidsignore " width="160" height="90" style="" type="application/video"><iframe id="StefanoAI-youtube-1" class="StefanoAI-youtube-responsive " width="160" height="90" src="//www.youtube-nocookie.com/embed/2Z12OjnPADA?&amp;autohide=1&amp;hl=de&amp;color=white&amp;controls=0&amp;disablekb=0&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;showinfo=0&amp;theme=light&amp;vq=default" allowfullscreen="" style="border:none;"></iframe></object>
+<h3 class="widget-title"></h3><object class="StefanoAI-youtube-responsive fitvidsignore " width="160" height="90" style="" type="application/video"><iframe id="StefanoAI-youtube-1" class="StefanoAI-youtube-responsive " width="160" height="90" src="//www.youtube-nocookie.com/embed/2Z12OjnPADA?&amp;autohide=1&amp;hl=de&amp;color=white&amp;controls=0&amp;disablekb=0&amp;fs=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;showinfo=0&amp;theme=light&amp;vq=default" allowfullscreen="" style="border:none;"></iframe></object>
 <p>Freifunk steht für freie Kommunikation in digitalen Datennetzen. Wir verstehen frei als öffentlich zugänglich, nicht kommerziell, im Besitz der Gemeinschaft und unzensiert.</p>
 <p>Die Ziele von Freifunk Vogtland e.V. sind die Vernetzung des gesamten <a class="profileLink" href="https://www.facebook.com/UrlaubimVogtland/" data-hovercard="/ajax/hovercard/page.php?id=125288537486273">VOGTLAND</a>s zur Steigerung der Lebensqualität und zur Verbesserung der Attraktivität.</p>
 <p>Freifunk ist völlig kostenlos und wird durch Spenden finanziert. Mit Freifunk können auch Laden- und Gast­stättenbesitzer ihren Kunden und Gästen ohne großen finanziellen Auf­wand und verbunden mit dem Schutz vor der sogenannten Störer­haftung einen echten Mehr­wert bieten.</p>
