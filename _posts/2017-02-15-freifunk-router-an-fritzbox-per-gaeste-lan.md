@@ -38,4 +38,10 @@ panels_data:
 <li class="li1"><span class="s2">Nun geht es zum „Heimnetzwerk“ -&gt; „Heimnetzübersicht“ zu&nbsp;dem Reiter „Netzwerkeinstellungen“</span></li>
 <li class="li1"><span class="s2">In den „Netzwerkeinstellungen“ das Häkchen bei „Gastzugang für LAN 4 aktiv“</span></li>
 </ul>
-<img class="so-widget-image">
+<img src="http://vogtland.freifunk.net/wordpress/wp-content/uploads/2017/02/wp_ss_20160725_0003-e1469483331447-623x1024.png" width="623" height="1024" srcset="http://vogtland.freifunk.net/wordpress/wp-content/uploads/2017/02/wp_ss_20160725_0003-e1469483331447-623x1024.png 623w, http://vogtland.freifunk.net/wordpress/wp-content/uploads/2017/02/wp_ss_20160725_0003-e1469483331447-623x1024-183x300.png 183w" title="wp_ss_20160725_0003-e1469483331447-623×1024" class="so-widget-image">
+<ul class="ol1">
+<li class="li1"><span class="s2">evtl. das Häkchen bei „Anmeldung am Gastzugang nur nach Zustimmung zu den Nutzungsbedingungen gestatten“ entfernen</span></li>
+<li class="li1"><span class="s2">Freifunk-Router an den LAN 4 anschließen und einschalten</span></li>
+<li class="li1"><span class="s2">der Freifunk-Router sollte sich nun automatisch mit dem Freifunk-Netz verbinden und fertig ist es &#x1f642;</span></li>
+</ul>
+<p class="p1"><span class="s2">Nun hat man eine automatische Anpassung der Bandbreite für Freifunk.</span></p>
