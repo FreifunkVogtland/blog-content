@@ -10,7 +10,7 @@ Wenn man Beseitzer einer aktuellen FritzBox und der Option ein Gästenetzwerk an
 
 <!--more-->
 
-Einrichtung:
+So geht's:
 <ol>
  	<li>FritzBox per http://fritz.box öffnen</li>
  	<li>evtl. Anmeldedaten eingeben</li>
