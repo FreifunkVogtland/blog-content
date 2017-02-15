@@ -22,7 +22,5 @@ siteorigin_page_settings:
 [vereinonline_kalender]
 
 [vereinonline_termine()]
-
-[vereinonline:titel]
-
+<h4>[vereinonline:titel]</h4>
 [/vereinonline_termine]
