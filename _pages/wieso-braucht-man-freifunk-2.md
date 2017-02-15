@@ -8,12 +8,22 @@ layout: page
 permalink: >
   http://vogtland.freifunk.net/?page_id=419
 published: true
+vantage_panels_no_legacy:
+  - 'true'
+vantage_metaslider_slider:
+  - ""
+vantage_metaslider_slider_stretch:
+  - "1"
+vantage_menu_icon:
+  - ""
+siteorigin_page_settings:
+  - 'a:6:{s:6:"layout";s:7:"default";s:10:"page_title";b:1;s:15:"masthead_margin";b:1;s:13:"footer_margin";b:1;s:13:"hide_masthead";b:0;s:19:"hide_footer_widgets";b:0;}'
 ---
 <strong>Ist WLAN-Strahlung gefährlich?</strong>
 
 Anders, als z.B. Sendemasten für Mobilfunk (Handynetze), die mit Leistungen von 1 bis 2 Watt senden dürfen, beträgt die maximale Sendeleistung für WLAN nicht mehr als 0,1 Watt. Dies entspricht etwa der Lichtleistung einer normalen Fahrradglühbirne.
 WLAN darf daher auch völlig lizenzfrei, von jedem, überall verwendet werden und ist mittlerweile auch in fast allen Haushalten und quasi jedem Computer und Smartphone anzutreffen.
-Die von Freifunk verwendete Technik sind handelsübliche WLAN-Geräte mit angepasster Software. Nicht nur Hochfrequenzexperten, sondern auch das Bundesamt für Strahlenschutz (BfS) hält diese Technik für <a href="http://www.bfs.de/de/bfs/publikationen/broschueren/elektromagnetische_felder/moderne_kommunikation/Bluetooth_WLAN.html">unbedenklich</a>.
+Die von Freifunk verwendete Technik sind handelsübliche WLAN-Geräte mit angepasster Software. Nicht nur Hochfrequenzexperten, sondern auch das Bundesamt für Strahlenschutz (BfS) hält diese Technik für <a href="http://www.bfs.de/DE/themen/emf/hff/anwendung/kabellos/kabellos.html">unbedenklich</a>.
 
 &nbsp;
 
