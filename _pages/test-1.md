@@ -23,7 +23,6 @@ siteorigin_page_settings:
 
 [vereinonline_termine()]
 
-[vereinonline:datum]
 [vereinonline:titel]
 
 [/vereinonline_termine]
