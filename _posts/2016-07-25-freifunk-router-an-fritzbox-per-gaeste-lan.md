@@ -1,6 +1,6 @@
 ---
 post_title: Freifunk-Router an Fritzbox per Gäste-LAN
-author: enno0815de
+author: Enno
 post_date: 2016-07-25 23:58:29
 post_excerpt: ""
 layout: post
