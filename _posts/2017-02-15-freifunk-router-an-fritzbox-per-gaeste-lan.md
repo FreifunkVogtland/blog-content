@@ -13,31 +13,24 @@ vantage_panels_no_legacy:
   - 'true'
 siteorigin_page_settings:
   - 'a:6:{s:6:"layout";s:7:"default";s:10:"page_title";b:1;s:15:"masthead_margin";b:1;s:13:"footer_margin";b:1;s:13:"hide_masthead";b:0;s:19:"hide_footer_widgets";b:0;}'
+panels_data:
+  - |
+    a:3:{s:7:"widgets";a:4:{i:0;a:6:{s:5:"title";s:0:"";s:4:"text";s:687:"<p>Wenn man Besitzer einer aktuellen FritzBox und der Option ein Gästenetzwerk an dem LAN-Port 4 schalten kann, ist es damit möglich die Bandbreite eines Freifunk-Routers einfach automatisch drosseln zulassen. Somit haben alle Verbindungen im eigenen Netzwerk Vorrang und sollte der Download oder das Streaming beendet werden, wird wieder mehr Bandbreite für den Freifunk-Router freigegeben.</p><p>So geht's:</p><ul><li>FritzBox per http://fritz.box öffnen</li><li>evtl. Anmeldedaten eingeben</li><li>Über das Menü "Internet" -&gt; "Filter" die "Listen" öffnen</li><li>Filterliste "alles außer Surfen und Mailen öffnen"</li><li>Die Einstellungen des Bildes übernehmen</li></ul>";s:20:"text_selected_editor";s:7:"tinymce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"58a4c78c91279";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:9:"widget_id";s:36:"5092ce25-4382-4ef4-9749-b243279475af";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:1;a:13:{s:5:"image";i:740;s:14:"image_fallback";s:0:"";s:4:"size";s:6:"medium";s:5:"align";s:7:"default";s:5:"title";s:0:"";s:14:"title_position";s:6:"hidden";s:3:"alt";s:0:"";s:3:"url";s:0:"";s:5:"bound";b:1;s:12:"_sow_form_id";s:13:"58a4c7c8b65a8";s:11:"panels_info";a:6:{s:5:"class";s:30:"SiteOrigin_Widget_Image_Widget";s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:1;s:9:"widget_id";s:36:"d6cf19e4-ce86-4d00-8ac3-44a79c77ba3a";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}s:10:"new_window";b:0;s:10:"full_width";b:0;}i:2;a:6:{s:5:"title";s:0:"";s:4:"text";s:783:"<p><span class="s2">Achtung: Ich habe in meiner Einstellung das Häkchen bei „E-Mail-Filter über Port 25 aktiv“ aktiviert, d.H. es können Mails nur mittels SSL Versand werden. Somit sind in dem Bild die Ports 25 und 110 nicht ausgeschlossen.</span></p><ul class="ol1"><li class="li1"><span class="s2">Änderungen an der Liste speichern</span></li><li class="li1"><span class="s2">evtl. den Namen der Liste noch ändern in „alles außer Surfen und Mailen und Freifunk“</span></li><li class="li1"><span class="s2">Danach über das Menü „Internet“ -&gt; „Filter“ die „Zugangsprofile“ öffnen und im Profil „Gast“ die Netzwerkanwendung „alles außer Surfen und Mailen und Freifunk“ wählen und den Filter für Internetseiten deaktivieren</span></li></ul>";s:20:"text_selected_editor";s:7:"tinymce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"58a4c7cd1d429";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:2;s:9:"widget_id";s:36:"4d0964fd-5826-4155-a9b6-6027277a292b";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:3;a:13:{s:5:"image";i:741;s:14:"image_fallback";s:0:"";s:4:"size";s:6:"medium";s:5:"align";s:7:"default";s:5:"title";s:0:"";s:14:"title_position";s:6:"hidden";s:3:"alt";s:0:"";s:3:"url";s:0:"";s:5:"bound";b:1;s:12:"_sow_form_id";s:13:"58a4c8415305d";s:11:"panels_info";a:6:{s:5:"class";s:30:"SiteOrigin_Widget_Image_Widget";s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:3;s:9:"widget_id";s:36:"71b2d52e-8d6a-4127-ac1a-f7824fc30485";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}s:10:"new_window";b:0;s:10:"full_width";b:0;}}s:5:"grids";a:1:{i:0;a:2:{s:5:"cells";i:1;s:5:"style";a:0:{}}}s:10:"grid_cells";a:1:{i:0;a:2:{s:4:"grid";i:0;s:6:"weight";i:1;}}}
 ---
-Wenn man Beseitzer einer aktuellen FritzBox und der Option ein Gästenetzwerk an dem LAN-Port 4 schalten kann, ist es damit möglich die Bandbreite eines Ferifunk-Routers einfach automatisch drosseln zulassen. Somit haben alle Verbindungen im eigenen Netzwerk Vorrang und sollte der Download oder das Streaming beendet werden, wird wieder mehr Bandbreite für den Freifunk-Router freigegeben.
-
-<!--more-->
-
-So geht's:
-<ol>
- 	<li>FritzBox per http://fritz.box öffnen</li>
- 	<li>evtl. Anmeldedaten eingeben</li>
- 	<li>Über das Menü "Internet" -&gt; "Filter"  die "Listen" öffnen</li>
- 	<li>Filterliste "alles außer Surfen und Mailen öffnen"</li>
- 	<li>Die Einstellungen des Bildes übernehmen
-<img class="aligncenter wp-image-10 size-large" src="http://blog.soapbubbles.de/wp-content/uploads/2016/07/wp_ss_20160725_0001-e1469483298200-622x1024.png" alt="wp_ss_20160725_0001" width="622" height="1024" />
-Achtung: Ich habe in meiner Einstellung das Häkchen bei "E-Mail-Filter über Port 25 aktiv" aktiviert, d.H. es können Mails nur mittels SSL Versand werden. Somit sind in dem Bild die Ports 25 und 110 nicht ausgeschlossen.</li>
- 	<li>Änderungen an der Liste speichern</li>
- 	<li>evtl. den Namen der Liste noch ändern in "alles außer Surfen und Mailen und Freifunk"</li>
- 	<li>Danach über das Menü "Internet" -&gt; "Filter" die "Zugangsprofile" öffnen und im Profil "Gast" die Netzwerkanwendung "alles außer Surfen und Mailen und Freifunk" wählen und den Filter für Internetseiten deaktivieren
-<img class="aligncenter wp-image-11 size-large" src="http://blog.soapbubbles.de/wp-content/uploads/2016/07/wp_ss_20160725_0002-e1469483277520-626x1024.png" alt="wp_ss_20160725_0002" width="626" height="1024" /></li>
- 	<li>Nun geht es zum "Heimnetzwerk" -&gt; "Heimnetzübersicht" zu dem Reiter "Netzwerkeinstellungen"</li>
- 	<li>In den "Netzwerkeinstellungen" das Häkchen bei "Gastzugang für LAN 4 aktiv"
-<img class="wp-image-12 size-large aligncenter" src="http://blog.soapbubbles.de/wp-content/uploads/2016/07/wp_ss_20160725_0003-e1469483331447-623x1024.png" alt="wp_ss_20160725_0003" width="623" height="1024" /></li>
- 	<li>evtl. das Häkchen bei "Anmeldung am Gastzugang nur nach Zustimmung zu den Nutzungsbedingungen gestatten" entfernen</li>
- 	<li>Freifunk-Router an den LAN 4 anschließen und einschalten</li>
- 	<li>der Freifunk-Router sollte sich nun automatisch mit dem Freifunk-Netz verbinden und fertig ist es :)</li>
-</ol>
-&nbsp;
-
-Nun hat man eine automatische Anpassung der Bandbreite für Freifunk.
+<p>Wenn man Besitzer einer aktuellen FritzBox und der Option ein Gästenetzwerk an dem LAN-Port 4 schalten kann, ist es damit möglich die Bandbreite eines Freifunk-Routers einfach automatisch drosseln zulassen. Somit haben alle Verbindungen im eigenen Netzwerk Vorrang und sollte der Download oder das Streaming beendet werden, wird wieder mehr Bandbreite für den Freifunk-Router freigegeben.</p>
+<p>So geht's:</p>
+<ul>
+<li>FritzBox per http://fritz.box öffnen</li>
+<li>evtl. Anmeldedaten eingeben</li>
+<li>Über das Menü "Internet" -&gt; "Filter" die "Listen" öffnen</li>
+<li>Filterliste "alles außer Surfen und Mailen öffnen"</li>
+<li>Die Einstellungen des Bildes übernehmen</li>
+</ul>
+<img src="http://vogtland.freifunk.net/wordpress/wp-content/uploads/2017/02/wp_ss_20160725_0001-e1469483298200-622x1024.png" width="622" height="1024" srcset="http://vogtland.freifunk.net/wordpress/wp-content/uploads/2017/02/wp_ss_20160725_0001-e1469483298200-622x1024.png 622w, http://vogtland.freifunk.net/wordpress/wp-content/uploads/2017/02/wp_ss_20160725_0001-e1469483298200-622x1024-182x300.png 182w" title="wp_ss_20160725_0001-e1469483298200-622×1024" class="so-widget-image">
+<p><span class="s2">Achtung: Ich habe in meiner Einstellung&nbsp;das Häkchen bei „E-Mail-Filter über Port 25 aktiv“ aktiviert, d.H.&nbsp;es können Mails nur mittels SSL Versand werden. Somit sind in dem Bild die Ports 25 und 110 nicht ausgeschlossen.</span></p>
+<ul class="ol1">
+<li class="li1"><span class="s2">Änderungen an der Liste speichern</span></li>
+<li class="li1"><span class="s2">evtl. den Namen der Liste noch ändern in „alles außer Surfen und Mailen und Freifunk“</span></li>
+<li class="li1"><span class="s2">Danach über das Menü „Internet“ -&gt; „Filter“ die „Zugangsprofile“ öffnen und im Profil „Gast“ die Netzwerkanwendung „alles außer Surfen und Mailen und Freifunk“ wählen und den Filter für Internetseiten deaktivieren</span></li>
+</ul>
+<img src="http://vogtland.freifunk.net/wordpress/wp-content/uploads/2017/02/wp_ss_20160725_0002-e1469483277520-626x1024-183x300.png" width="183" height="300" srcset="http://vogtland.freifunk.net/wordpress/wp-content/uploads/2017/02/wp_ss_20160725_0002-e1469483277520-626x1024-183x300.png 183w, http://vogtland.freifunk.net/wordpress/wp-content/uploads/2017/02/wp_ss_20160725_0002-e1469483277520-626x1024.png 626w" title="wp_ss_20160725_0002-e1469483277520-626×1024" class="so-widget-image">
