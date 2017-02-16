@@ -17,11 +17,11 @@ vantage_metaslider_slider_stretch:
 vantage_menu_icon:
   - ""
 siteorigin_page_settings:
-  - 'a:7:{s:6:"layout";s:7:"default";s:10:"page_title";b:1;s:15:"masthead_margin";b:1;s:13:"footer_margin";b:1;s:14:"featured_image";b:0;s:13:"hide_masthead";b:0;s:19:"hide_footer_widgets";b:0;}'
+  - 'a:6:{s:6:"layout";s:7:"default";s:10:"page_title";b:1;s:15:"masthead_margin";b:1;s:13:"footer_margin";b:1;s:13:"hide_masthead";b:0;s:19:"hide_footer_widgets";b:0;}'
 ---
 [vereinonline_termine(,,zukunft)]
 <span class="termin">
-<a href="https://www.vereinonline.org/freinfunk.vogtland/?veranstaltung=[vereinonline:id]" target="_blank" class="termin-title">[vereinonline:titel]</a><br>
+<a href="https://www.vereinonline.org/freifunk.vogtland/?veranstaltung=[vereinonline:id]" target="_blank" class="termin-title">[vereinonline:titel]</a><br>
 <span class="termin-description"><span class="termin-datum">[vereinonline:datum]</span> ab <span class="termin-zeit">[vereinonline:zeit]</span> in <span class="termin-ort">[vereinonline:ort]</span></span>
 </span>
 [/vereinonline_termine]
