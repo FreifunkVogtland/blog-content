@@ -5,7 +5,7 @@ author: bofh_13u3ovt3
 post_date: 2016-05-10 03:48:21
 post_excerpt: ""
 layout: page
-permalink: http://vogtland.freifunk.net/?page_id=2
+permalink: http://vogtland.freifunk.net/
 published: true
 dojodigital_toggle_title:
   - 'on'
