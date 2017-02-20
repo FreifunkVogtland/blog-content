@@ -5,12 +5,13 @@ author: andre
 post_date: 2017-02-15 12:26:20
 post_excerpt: ""
 layout: post
-permalink: http://vogtland.freifunk.net/?p=654
+permalink: >
+  http://vogtland.freifunk.net/abschalten-von-antennen/
 published: true
 vantage_panels_no_legacy:
   - 'true'
 siteorigin_page_settings:
-  - 'a:6:{s:6:"layout";s:7:"default";s:15:"masthead_margin";b:1;s:13:"footer_margin";b:1;s:10:"page_title";b:0;s:13:"hide_masthead";b:0;s:19:"hide_footer_widgets";b:0;}'
+  - 'a:6:{s:6:"layout";s:7:"default";s:10:"page_title";b:1;s:15:"masthead_margin";b:1;s:13:"footer_margin";b:1;s:13:"hide_masthead";b:0;s:19:"hide_footer_widgets";b:0;}'
 ---
 Hier eine kurze Anleitung zum Abschalten von Antennen beim TP-Link TL-WR842ND. Dies kann notwendig sein, wenn Du zum Beispiel eine Antenne außen nutzen möchtest. Der TP-Link TL-WR842ND nutzt in seiner normalen Konfiguration das MIMO Verfahren. Wenn man Änderungen an den Antennen vornimmt, sollte man dies deaktivieren, indem man eine der beiden Antennen deaktiviert. Ansonsten kann es zur Verschlechterung der Sende-/Empfangsstärke des Routers kommen.
 
