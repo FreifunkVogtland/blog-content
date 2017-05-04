@@ -19,7 +19,7 @@ Manchmal möchte man etwas an seinem Router konfigurieren, ist sich allerdings n
 
 Ich beschreibe euch hier kurz, wie ihr die Konfiguration eures Routers exportieren und auf euren lokalen PC laden könnt. Und auch, wie ihr die Konfiguration wieder auf den Router übertragt und importiert.
 
-Diese Anleitung, setzt den Kommandozeilen-Befehl "scp" voraus. Dieser ist auf Linux und Apple Macs vorhanden. Auf Windows nutzt ihr bitte die alternative Kommandozeile "cmder" oder das Programm WinSCP.
+Diese Anleitung, setzt den Kommandozeilen-Befehl "scp" voraus. Der Befehl ist auf Linux und Apple Macs in der Konsole vorhanden. Auf Windows nutzt ihr bitte die alternative Kommandozeile "cmder" oder das Programm WinSCP.
 
 Bitte verbindet euch per SSH mit eurem Freifunk Router. Die IPv6-Adresse und die lokalen Pfade ersetzt ihr bitte durch eure eigenen. ;)
 
