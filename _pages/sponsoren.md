@@ -8,7 +8,8 @@ permalink: https://vogtland.freifunk.net/sponsoren/
 published: true
 post_date: 2017-04-05 08:54:58
 ---
-<div id="pl-845"  class="panel-layout" ><div id="pg-845-0"  class="panel-grid panel-no-style" ><div id="pgc-845-0-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-845-0-0-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" ><h3 class="widget-title">Wir möchten uns bei folgenden Sponsoren bedanken:</h3>			<div class="textwidget"></div>
+<div id="pl-845"  class="panel-layout" ><div id="pg-845-0"  class="panel-grid panel-no-style" ><div id="pgc-845-0-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-845-0-0-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" ><h3 class="widget-title">Danke an alle Spender und Sponsoren</h3>			<div class="textwidget"><p>Wir möchten uns bei folgenden Sponsoren bedanken:</p>
+</div>
 		</div></div></div><div id="pg-845-1"  class="panel-grid panel-no-style" ><div id="pgc-845-1-0"  class="panel-grid-cell"  data-weight="0.20032573289902" ><div id="panel-845-1-0-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="1" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" ><div class="so-widget-sow-image so-widget-sow-image-default-2b1fadbace82">
 
 <div class="sow-image-container">
