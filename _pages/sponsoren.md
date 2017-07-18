@@ -1,6 +1,6 @@
 ---
 ID: 845
-post_title: Danke an alle Spender und Sponsoren
+post_title: Sponsoren
 author: andre
 post_excerpt: ""
 layout: page
