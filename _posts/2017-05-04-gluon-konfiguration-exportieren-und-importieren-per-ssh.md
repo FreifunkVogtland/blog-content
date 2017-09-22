@@ -26,7 +26,7 @@ Nun exportiert ihr die Konfiguration auf eurem Router in eine Datei:
 Danach öffnet ihr eine Konsole auf eurem PC (oder Mac) und ladet euch die exportierte Konfiguration mittels SCP wie folgt herunter:
 <code>scp root@[2001:bc8:3f13:ffc2:6670:2ff:febe:85be]:/config.uci /Users/sunbox/Desktop</code>
 
-Nun könnt ihr euch die Konfiguration anschauen, oder auch ändern. Nachfolgend die Befehle, um diese wieder zu importieren.
+Nun könnt ihr euch die Konfiguration anschauen oder auch ändern. Nachfolgend die Befehle, um diese wieder zu importieren.
 
 Auf eurem lokalen PC den folgenden Befehl ausführen, um die Konfigurationsdatei wieder auf den Router zu laden:
 <code>scp /Users/sunbox/Desktop/config.uci root@[2001:bc8:3f13:ffc2:6670:2ff:febe:85be]:/</code>
