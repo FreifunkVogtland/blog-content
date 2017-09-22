@@ -2,22 +2,12 @@
 ID: 380
 post_title: Freifunk Router richtig benennen
 author: Enno
-post_date: 2016-08-27 20:22:49
 post_excerpt: ""
 layout: page
 permalink: >
   https://vogtland.freifunk.net/router-richtig-benennen/
 published: true
-vantage_panels_no_legacy:
-  - 'true'
-vantage_metaslider_slider:
-  - ""
-vantage_metaslider_slider_stretch:
-  - "1"
-vantage_menu_icon:
-  - ""
-siteorigin_page_settings:
-  - 'a:6:{s:6:"layout";s:7:"default";s:10:"page_title";b:1;s:15:"masthead_margin";b:1;s:13:"footer_margin";b:1;s:13:"hide_masthead";b:0;s:19:"hide_footer_widgets";b:0;}'
+post_date: 2016-08-27 20:22:49
 ---
 Damit wir den Überblick behalten, wo ein Freifunk Router installiert ist, vergeben wir jedem Router einen Namen. Der Name enthält ein Kürzel für den Ort, eine Kurzform der Anschrift mit Hausnummer und wenn benötigt, die Ausrichtung oder die Lokalität.
 
@@ -43,7 +33,6 @@ Ellefeld - ELL
 Elsterberg - ELS
 Falkenstein - FST
 Grünbach - GB
-Hauptmannsgrün - HPTMG
 Heinsdorfergrund - HDG
 Klingenthal - K
 Lengenfeld - LE
@@ -59,9 +48,7 @@ Oelsnitz - OEL
 Pausa-Mühltroff - PMF
 Plauen - PL
 Pöhl - POE
-Plohn - PLO
 Reichenbach - RC
-Reuth (Weischlitz) - REH
 Rodewisch - RDW
 Rosenbach - RBH
 Schöneck - S
