@@ -11,8 +11,7 @@ permalink: >
 published: true
 post_date: 2017-02-15 18:47:42
 ---
-Wenn man eine aktuellen FritzBox mit 4 LAN-Ports besitzt, ist es möglich, die Bandbreite eines Freifunk-Routers automatisch anpassen zulassen. Somit haben alle Verbindungen im eigenen Netzwerk Vorrang und sollte der Download oder das Streaming beendet werden, wird mehr Bandbreite dem Freifunk-Router zugewiesen.
-<!--more-->
+Wenn man eine aktuellen FritzBox mit 4 LAN-Ports besitzt, ist es möglich, die Bandbreite eines Freifunk-Routers automatisch anpassen zulassen.<!--more--> Somit haben alle Verbindungen im eigenen Netzwerk Vorrang und sollte der Download oder das Streaming beendet werden, wird mehr Bandbreite dem Freifunk-Router zugewiesen.
 
 <h3>So geht's:</h3>
 
