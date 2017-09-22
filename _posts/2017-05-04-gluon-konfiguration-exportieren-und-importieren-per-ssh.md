@@ -4,18 +4,15 @@ post_title: >
   Gluon Konfiguration exportieren und
   importieren (per SSH)
 author: andre
-post_date: 2017-05-04 23:24:56
 post_excerpt: ""
 layout: post
 permalink: >
   https://vogtland.freifunk.net/gluon-konfiguration-exportieren-und-importieren-per-ssh/
 published: true
-vantage_panels_no_legacy:
-  - 'true'
-siteorigin_page_settings:
-  - 'a:6:{s:6:"layout";s:7:"default";s:10:"page_title";b:1;s:15:"masthead_margin";b:1;s:13:"footer_margin";b:1;s:13:"hide_masthead";b:0;s:19:"hide_footer_widgets";b:0;}'
+post_date: 2017-05-04 23:24:56
 ---
 Manchmal möchte man etwas an seinem Router konfigurieren, ist sich allerdings nicht sicher, ob es funktioniert. Oder man möchte einfach mal schauen, welche Möglichkeiten es denn gibt. ;)
+<!--more-->
 
 Ich beschreibe euch hier kurz, wie ihr die Konfiguration eures Routers exportieren und auf euren lokalen PC laden könnt. Und auch, wie ihr die Konfiguration wieder auf den Router übertragt und importiert.
 
