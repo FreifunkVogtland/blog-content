@@ -22,12 +22,13 @@ In manchen Fällen müssen für die Funktion des Freifunk Router in einer vorha
 <th width="261">Port</th>
 </tr><tr>
 <td width="261">vpn0[1-9].freifunk-vogtland.net</td>
-<td width="261">(udp) 10000 – 10003</td>
+<td width="261">udp/10000–10003</td>
 </tr><tr>
 <td width="261">vpn10.freifunk-vogtland.net</td>
-<td width="261">(udp) 10000 – 10003</td>
+<td width="261">udp/10000–10003</td>
 </tr><tr>
-<td width="261">*</td><td width="261">udp/53</td>
+<td width="261">*</td>
+<td width="261">udp/53</td>
 </tr><tr>
 <td width="261">Firmware.freifunk-vogtland.net</td>
 <td width="261">tcp/80, tcp/443</td>
