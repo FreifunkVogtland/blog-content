@@ -13,7 +13,7 @@ post_date: 2017-05-29 22:05:40
 ---
 <h3>Freier Datenverkehr für die Gäste</h3>
 
-Das <a href="http://www.heinrichs-plauen.de/" target="_blank">Heinrichs</a> und die <a href="https://matsch-plauen.jimdo.com/" target="_blank">Matsch</a> in der Plauener Innenstadt bieten seit ein paar Tagen Freifunk für ihre Gäste und sind in das <a href="https://vogtland.freifunk.net/map/" target="_blank">Vogtland Freifunk Mesh</a> eingebunden. Die Gäste können damit frei ihren Online-Aktivitäten nachgehen, ohne sich in die Home-WLAN-Netzwerke der Gastronomie einloggen zu müssen - eine für beide Seiten vorteilhafte, sichere Lösung.
+Das <a href="http://www.heinrichs-plauen.de/" target="_blank">Heinrichs</a> und die <a href="https://matsch-plauen.jimdo.com/" target="_blank">Matsch</a> in der Plauener Innenstadt bieten seit ein paar Tagen Freifunk für ihre Gäste<!--more--> und sind in das <a href="https://vogtland.freifunk.net/map/" target="_blank">Vogtland Freifunk Mesh</a> eingebunden. Die Gäste können damit frei ihren Online-Aktivitäten nachgehen, ohne sich in die Home-WLAN-Netzwerke der Gastronomie einloggen zu müssen - eine für beide Seiten vorteilhafte, sichere Lösung.
 
 
 <h3>Situation vor der Installation</h3>
