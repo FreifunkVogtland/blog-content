@@ -14,7 +14,7 @@ post_date: 2017-02-15 18:47:42
 Wenn man Besitzer einer aktuellen FritzBox und der Option ein Gästenetzwerk an dem LAN-Port 4 schalten kann, ist es damit möglich die Bandbreite eines Freifunk-Routers einfach automatisch drosseln zulassen. Somit haben alle Verbindungen im eigenen Netzwerk Vorrang und sollte der Download oder das Streaming beendet werden, wird wieder mehr Bandbreite für den Freifunk-Router freigegeben.
 <!--more-->
 
-So geht's:
+<h3>So geht's:</h3>
 
 <ul>
 <li>FritzBox per <code>http://fritz.box</code> öffnen</li>
