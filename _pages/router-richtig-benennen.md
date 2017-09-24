@@ -38,8 +38,8 @@ Klingenthal - K
 Lengenfeld - LE
 Limbach - LIM
 Markneukirchen - MKN
-Muldenhammer - MH
 Mühlenthal - MTL
+Muldenhammer - MH
 Netzschkau - N
 Neuensalz - NSZ
 Neumark - NMK
