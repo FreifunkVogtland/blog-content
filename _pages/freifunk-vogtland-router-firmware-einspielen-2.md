@@ -18,7 +18,7 @@ Schritt für Schritt Anleitung für die Neuinstallation der Freifunk Vogtland Fi
 
 <span style="color: #dc0067;">Außerhalb des Vogtlandes wird das Mesh nicht funktionieren und wir haben viel Arbeit damit, Leute anzuschreiben und zu erklären, dass Freifunk dezentral ist. Die dir nächstgelegene Gemeinde findest du unter <a style="color: #dc0067;" href="https://freifunk.net/community-finden/">https://freifunk.net/community-finden/</a>, bitte erkundige dich dort nach der passenden Firmware für deinen Router.</span>
 
-<img class="size-medium wp-image-457 alignleft" src="https://vogtland.freifunk.net/wordpress/wp-content/uploads/2016/12/UniFi_900-300x261.png" alt="" width="300" height="261" />
+<img class="size-medium wp-image-457 alignnone" src="https://vogtland.freifunk.net/wordpress/wp-content/uploads/2016/12/UniFi_900-300x261.png" alt="" width="300" height="261" />
 <h2>Einleitung</h2>
 Um einen Router als Freifunk Router zu nutzen, ist es erforderlich dort das Freifunk Betriebssystem – die Freifunk Firmware – zu installieren.
 
