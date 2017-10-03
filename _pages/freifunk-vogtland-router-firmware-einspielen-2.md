@@ -11,7 +11,7 @@ permalink: >
 published: true
 post_date: 2016-11-30 18:04:47
 ---
-Schritt für Schritt Anleitung für die Neuinstallation der Freifunk Vogtland Firmware auf einem Ubiquiti <span class="itemreviewed fn">UniFi AP AC (Lite &amp; Pro) mit originaler Firmware. Bitte lade dazu das "<a href="http://firmware.freifunk-vogtland.net/firmware/stable/sysupgrade/" target="_blank" rel="noopener">sysupgrade</a>" (Achtung: bitte <strong>nicht</strong> "factory"!) Firmware Image herunter.
+Schritt für Schritt Anleitung für die Neuinstallation der Freifunk Vogtland Firmware auf einem Ubiquiti <span class="itemreviewed fn">UniFi AP AC (Lite &amp; Pro) mit originaler Firmware. Bitte lade dazu das "<a href="http://firmware.freifunk-vogtland.net/firmware/stable/sysupgrade/" target="_blank" rel="noopener">sysupgrade</a>" (Achtung: bitte <strong>nicht</strong> "factory" ! ) Firmware Image herunter.
 </span>
 
 <span style="color: #dc0067;"><strong>Achtung: Diese Anleitung nur nutzen, wenn du den Router im Vogtland betreiben möchtest!</strong></span>
