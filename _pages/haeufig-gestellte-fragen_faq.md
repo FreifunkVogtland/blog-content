@@ -5,7 +5,7 @@ author: Maximilian Hahn
 post_excerpt: ""
 layout: page
 permalink: >
-  https://vogtland.freifunk.net/wieso-braucht-man-freifunk-2/
+  https://vogtland.freifunk.net/haeufig-gestellte-fragen_faq/
 published: true
 post_date: 2016-10-13 09:59:12
 ---
