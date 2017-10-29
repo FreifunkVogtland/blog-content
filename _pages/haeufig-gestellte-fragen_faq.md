@@ -55,4 +55,9 @@ Zur Vereinfachung kann auch der Domainname <em>nextnode.fffd</em> verwendet we
 <em>Hinweis: Der Zugriff erfolgt auf den Knoten, mit dem der zugreifende Rechner zum Zeitpunkt des Zugriffs verbunden ist. Falls mehrere Knoten in der Nähe sind, muss dies nicht zwangsläufig der Knoten sein, den ihr eigentlich erreichen wolltet.</em>
 
 &nbsp;
+<h2>Kann ich meinen Router per Kommando-Zeile konfigurieren?</h2>
+Ja, das geht. Eine Liste aller Befehle sowie die Anleitung dazu findet ihr hier:
+<a href="https://github.com/freifunk-gluon/gluon/wiki/Commandline-administration" target="_blank" rel="noopener">https://github.com/freifunk-gluon/gluon/wiki/Commandline-administration</a>
+
+&nbsp;
 <h2><a href="http://vogtland.freifunk.net/?page_id=29"><strong>Wer ist Freifunk</strong> Vogtland?</a></h2>
