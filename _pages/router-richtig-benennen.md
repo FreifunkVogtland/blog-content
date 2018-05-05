@@ -41,7 +41,7 @@ Markneukirchen - MKN
 Mühlenthal - MTL
 Muldenhammer - MH
 Mylau - MYL
-</code><code>Netzschkau - N
+Netzschkau - N
 Neuensalz - NSZ
 Neumark - NMK
 Neustadt - NST
@@ -49,7 +49,9 @@ Oelsnitz - OEL
 Pausa-Mühltroff - PMF
 Plauen - PL
 Pöhl - POE
+Rebesgrün - RBG
 Reichenbach - RC
+Reumtengrün - RTG
 Rodewisch - RDW
 Rosenbach - RBH
 Schöneck - S
