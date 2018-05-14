@@ -21,8 +21,7 @@ Am Beispiel des Routers an der Krausenstraße in Plauen, wird folgendes verwende
 </ul>
 Schaut auch auf der Karte die bereits vorhandenen Router an, wie diese benannt sind. ;)
 <h3>Stadtkürzel</h3>
-<pre><code>
-* Adorf - *A*
+<pre>* Adorf - *A*
   - https://de.wikipedia.org/wiki/Adorf/Vogtl.
   - Gemeindeteile:
     + Adorf/Vogtl.
@@ -521,6 +520,6 @@ Schaut auch auf der Karte die bereits vorhandenen Router an, wie diese benannt s
     + Oberer Jägerswald
     + Pillmansgrün
     + Werda
-</code></pre>
+</pre>
 <h3>Ich kann meinen Ort nicht finden, was nun?</h3>
 Wenn dein Ort nicht in der Liste zu finden ist, so <a href="http://vogtland.freifunk.net/?page_id=194">kontaktiere</a> uns.
