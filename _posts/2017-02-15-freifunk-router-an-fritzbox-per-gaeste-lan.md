@@ -18,7 +18,7 @@ Wenn man eine aktuellen FritzBox mit 4 LAN-Ports besitzt, ist es möglich, die B
 *   FritzBox per `http://fritz.box` öffnen
 *   evtl. Anmeldedaten eingeben
 *   Über das Menü oben rechts (drei Punkte <img class="wp-image-1015 alignnone" src="https://vogtland.freifunk.net/wordpress/wp-content/uploads/2017/02/Bildschirmfoto-2018-06-17-um-00.00.57.png" alt="" width="23" height="31" />) die "Erweiterte Ansicht" aktivieren <img class="alignnone size-full wp-image-1014" src="https://vogtland.freifunk.net/wordpress/wp-content/uploads/2017/02/Bildschirmfoto-2018-06-16-um-23.59.52.png" alt="" width="285" height="213" />
-*   Über das Menü "Internet" -> "Filter" die "Listen" öffnen <img class="alignnone size-medium wp-image-1016" src="https://vogtland.freifunk.net/wordpress/wp-content/uploads/2017/02/Bildschirmfoto-2018-06-17-um-00.04.24-300x115.png" alt="" width="300" height="115" />
+*   Über das Menü "Internet" -> "Filter" die "Listen" öffnen [<img class="alignnone wp-image-1016 size-medium" src="https://vogtland.freifunk.net/wordpress/wp-content/uploads/2017/02/Bildschirmfoto-2018-06-17-um-00.04.24-300x115.png" alt="" width="300" height="115" />][1]
 *   Filterliste "alles außer Surfen und Mailen" bearbeiten (Stift-Symbol) <img class="alignnone size-medium wp-image-1017" src="https://vogtland.freifunk.net/wordpress/wp-content/uploads/2017/02/Bildschirmfoto-2018-06-17-um-00.05.13-300x26.png" alt="" width="300" height="26" />
 *   Folgende Einstellungen wie in dem Bild unten übernehmen 
     <table>
@@ -92,3 +92,5 @@ Wenn man eine aktuellen FritzBox mit 4 LAN-Ports besitzt, ist es möglich, die B
 *   evtl. das Häkchen bei "Anmeldung am Gastzugang nur nach Zustimmung zu den Nutzungsbedingungen gestatten" entfernen
 *   Freifunk-Router an den LAN 4 anschließen und einschalten
 *   <span class="s2">der Freifunk-Router sollte sich nun automatisch mit dem Freifunk-Netz verbinden und fertig ist es</span> Nun hat man eine automatische Anpassung der Bandbreite für Freifunk.
+
+ [1]: https://vogtland.freifunk.net/wordpress/wp-content/uploads/2017/02/Bildschirmfoto-2018-06-17-um-00.04.24.png
