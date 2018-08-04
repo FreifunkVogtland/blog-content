@@ -70,7 +70,7 @@ post_date: 2016-05-26 19:24:49
         [siteorigin_widget class="SiteOrigin_Widget_Image_Widget"]<input type="hidden" value="{&quot;instance&quot;:{&quot;image&quot;:182,&quot;image_fallback&quot;:&quot;&quot;,&quot;size&quot;:&quot;full&quot;,&quot;align&quot;:&quot;center&quot;,&quot;title&quot;:&quot;&quot;,&quot;title_position&quot;:&quot;hidden&quot;,&quot;alt&quot;:&quot;&quot;,&quot;url&quot;:&quot;&quot;,&quot;bound&quot;:true,&quot;full_width&quot;:true,&quot;_sow_form_id&quot;:&quot;57794e0625988&quot;,&quot;new_window&quot;:false},&quot;args&quot;:{&quot;before_widget&quot;:&quot;<div id=\&quot;panel-166-0-0-7\&quot; class=\&quot;so-panel widget widget_sow-image\&quot; data-index=\&quot;7\&quot; data-style=\&quot;{&quot;background_display&quot;:&quot;tile&quot;}\&quot; >&quot;,&quot;after_widget&quot;:&quot;<\/div>&quot;,&quot;before_title&quot;:&quot;<h3 class=\&quot;widget-title\&quot;>&quot;,&quot;after_title&quot;:&quot;<\/h3>&quot;,&quot;widget_id&quot;:&quot;widget-0-0-7&quot;}}" />[/siteorigin_widget]
       </div>
       
-      <div id="panel-166-0-0-8" class="so-panel widget widget_sow-editor" data-index="8" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-166-0-0-8" class="so-panel widget widget_sow-editor" data-index="8" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="so-widget-sow-editor so-widget-sow-editor-base">
           <h3 class="widget-title">
             Name dieses Knotens
@@ -78,26 +78,38 @@ post_date: 2016-05-26 19:24:49
           
           <div class="siteorigin-widget-tinymce textwidget">
             <div class="siteorigin-widget-tinymce textwidget">
-              <p>
-                Als erstes musst du deinem Router einen Namen geben. Im Freifunk Vogtland bennenen wir die Router immer nach einem speziellen Schema: abgekürzter Name der Stadt + Bindestrich + Straßenname + Hausnummer
-              </p>
-              
-              <h3>
+              Als erstes musst du deinem Router einen Namen geben. Im Freifunk Vogtland bennenen wir die Router immer nach einem speziellen Schema: abgekürzter Name der Stadt/Gemeinde + Bindestrich + Straßenname + Hausnummer. Eine Übersicht mit den Gemeinden im Vogtland befindet sich in unserer Anleitung zum richtigen <a href="http://:https://vogtland.freifunk.net/router-richtig-benennen/">Benennen der Freifunk-Knoten</a>. <h3>
                 Beispiel
               </h3>
               
-              <pre>Plauen, Rädelstraße 7&nbsp;→ <strong>PL-Raedelstrasse7</strong>
-Auerbach, Str. des Friedens 42 → <strong>AE-StrDesFriedens42</strong></pre>
+              <pre>Plauen, Rädelstraße 7 → <strong>PL-Raedelstrasse7</strong>
+Auerbach, Str. des Friedens 42 → <strong>AE-StrDesFriedens42</strong></pre> Wenn du noch zusätzliche Informationen anfügen möchtest (z.B. "
               
-              <p>
-                Bitte achte darauf, dass keine Sonder- und Leerzeichen im Namen erlaubt sind. Wenn du noch zusätzliche Informationen anfügen möchtest (z.B. "<strong>OG</strong>" oder "<strong>FamMueller</strong>"), trenne diese bitte ebenfalls mit einem Bindestrich.
-              </p>
+              <strong>OG</strong>" oder "<strong>FamMueller</strong>"), trenne diese bitte ebenfalls mit einem Bindestrich.
             </div>
           </div>
         </div>
       </div>
       
-      <div id="panel-166-0-0-9" class="so-panel widget widget_sow-editor" data-index="9" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-166-0-0-9" class="so-panel widget widget_sow-editor" data-index="9" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
+        <div class="so-widget-sow-editor so-widget-sow-editor-base">
+          <h3 class="widget-title">
+            Domäne setzen
+          </h3>
+          
+          <div class="siteorigin-widget-tinymce textwidget">
+            <div class="siteorigin-widget-tinymce textwidget">
+              Nur Knoten in der selben Domäne können miteinander reden und eine falsche Einstellung führt zu Störungen bei der Bereitstellung des Netzzuganges. Daher ist es unverzichtbar, dass man hier die richtige Gemeinde bzw. Stadt einstellt. Eine Übersicht mit den Gemeinden im Vogtland befindet sich in unserer Anleitung zum richtigen <a href="https://vogtland.freifunk.net/router-richtig-benennen/" rel="noopener" target="_blank">Benennen der Freifunk-Knoten</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div id="panel-166-0-0-10" class="so-panel widget widget_sow-image" data-index="10" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
+        [siteorigin_widget class="SiteOrigin_Widget_Image_Widget"]<input type="hidden" value="{&quot;instance&quot;:{&quot;image&quot;:1025,&quot;image_fallback&quot;:&quot;&quot;,&quot;size&quot;:&quot;full&quot;,&quot;align&quot;:&quot;center&quot;,&quot;title_align&quot;:&quot;default&quot;,&quot;title&quot;:&quot;&quot;,&quot;title_position&quot;:&quot;hidden&quot;,&quot;alt&quot;:&quot;&quot;,&quot;url&quot;:&quot;&quot;,&quot;bound&quot;:true,&quot;full_width&quot;:true,&quot;_sow_form_id&quot;:&quot;10306816685b65a29fc061d968454760&quot;,&quot;_sow_form_timestamp&quot;:&quot;1533387460146&quot;,&quot;new_window&quot;:false},&quot;args&quot;:{&quot;before_widget&quot;:&quot;<div id=\&quot;panel-166-0-0-10\&quot; class=\&quot;so-panel widget widget_sow-image\&quot; data-index=\&quot;10\&quot; data-style=\&quot;{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}\&quot; >&quot;,&quot;after_widget&quot;:&quot;<\/div>&quot;,&quot;before_title&quot;:&quot;<h3 class=\&quot;widget-title\&quot;>&quot;,&quot;after_title&quot;:&quot;<\/h3>&quot;,&quot;widget_id&quot;:&quot;widget-0-0-10&quot;}}" />[/siteorigin_widget]
+      </div>
+      
+      <div id="panel-166-0-0-11" class="so-panel widget widget_sow-editor" data-index="11" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="so-widget-sow-editor so-widget-sow-editor-base">
           <h3 class="widget-title">
             Internetverbindung nutzen
@@ -113,7 +125,7 @@ Auerbach, Str. des Friedens 42 → <strong>AE-StrDesFriedens42</strong></pre>
         </div>
       </div>
       
-      <div id="panel-166-0-0-10" class="so-panel widget widget_sow-editor" data-index="10" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-166-0-0-12" class="so-panel widget widget_sow-editor" data-index="12" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="so-widget-sow-editor so-widget-sow-editor-base">
           <h3 class="widget-title">
             Bandbreite begrenzen (optional)
@@ -129,7 +141,7 @@ Auerbach, Str. des Friedens 42 → <strong>AE-StrDesFriedens42</strong></pre>
         </div>
       </div>
       
-      <div id="panel-166-0-0-11" class="so-panel widget widget_sow-editor" data-index="11" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-166-0-0-13" class="so-panel widget widget_sow-editor" data-index="13" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="so-widget-sow-editor so-widget-sow-editor-base">
           <h3 class="widget-title">
             Knoten auf der Karte anzeigen
@@ -159,11 +171,11 @@ Auerbach, Str. des Friedens 42 → <strong>AE-StrDesFriedens42</strong></pre>
         </div>
       </div>
       
-      <div id="panel-166-0-0-12" class="so-panel widget widget_sow-image" data-index="12" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
-        [siteorigin_widget class="SiteOrigin_Widget_Image_Widget"]<input type="hidden" value="{&quot;instance&quot;:{&quot;image&quot;:181,&quot;image_fallback&quot;:&quot;&quot;,&quot;size&quot;:&quot;full&quot;,&quot;align&quot;:&quot;center&quot;,&quot;title&quot;:&quot;&quot;,&quot;title_position&quot;:&quot;hidden&quot;,&quot;alt&quot;:&quot;&quot;,&quot;url&quot;:&quot;&quot;,&quot;bound&quot;:true,&quot;full_width&quot;:true,&quot;_sow_form_id&quot;:&quot;574730454c41f&quot;,&quot;new_window&quot;:false},&quot;args&quot;:{&quot;before_widget&quot;:&quot;<div id=\&quot;panel-166-0-0-12\&quot; class=\&quot;so-panel widget widget_sow-image\&quot; data-index=\&quot;12\&quot; data-style=\&quot;{&quot;background_display&quot;:&quot;tile&quot;}\&quot; >&quot;,&quot;after_widget&quot;:&quot;<\/div>&quot;,&quot;before_title&quot;:&quot;<h3 class=\&quot;widget-title\&quot;>&quot;,&quot;after_title&quot;:&quot;<\/h3>&quot;,&quot;widget_id&quot;:&quot;widget-0-0-12&quot;}}" />[/siteorigin_widget]
+      <div id="panel-166-0-0-14" class="so-panel widget widget_sow-image" data-index="14" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+        [siteorigin_widget class="SiteOrigin_Widget_Image_Widget"]<input type="hidden" value="{&quot;instance&quot;:{&quot;image&quot;:181,&quot;image_fallback&quot;:&quot;&quot;,&quot;size&quot;:&quot;full&quot;,&quot;align&quot;:&quot;center&quot;,&quot;title&quot;:&quot;&quot;,&quot;title_position&quot;:&quot;hidden&quot;,&quot;alt&quot;:&quot;&quot;,&quot;url&quot;:&quot;&quot;,&quot;bound&quot;:true,&quot;full_width&quot;:true,&quot;_sow_form_id&quot;:&quot;574730454c41f&quot;,&quot;new_window&quot;:false},&quot;args&quot;:{&quot;before_widget&quot;:&quot;<div id=\&quot;panel-166-0-0-14\&quot; class=\&quot;so-panel widget widget_sow-image\&quot; data-index=\&quot;14\&quot; data-style=\&quot;{&quot;background_display&quot;:&quot;tile&quot;}\&quot; >&quot;,&quot;after_widget&quot;:&quot;<\/div>&quot;,&quot;before_title&quot;:&quot;<h3 class=\&quot;widget-title\&quot;>&quot;,&quot;after_title&quot;:&quot;<\/h3>&quot;,&quot;widget_id&quot;:&quot;widget-0-0-14&quot;}}" />[/siteorigin_widget]
       </div>
       
-      <div id="panel-166-0-0-13" class="so-panel widget widget_sow-editor" data-index="13" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-166-0-0-15" class="so-panel widget widget_sow-editor" data-index="15" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="so-widget-sow-editor so-widget-sow-editor-base">
           <h3 class="widget-title">
             Kontakt
@@ -179,7 +191,7 @@ Auerbach, Str. des Friedens 42 → <strong>AE-StrDesFriedens42</strong></pre>
         </div>
       </div>
       
-      <div id="panel-166-0-0-14" class="so-panel widget widget_sow-editor" data-index="14" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-166-0-0-16" class="so-panel widget widget_sow-editor" data-index="16" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="so-widget-sow-editor so-widget-sow-editor-base">
           <h3 class="widget-title">
             Speichern & Neustart
@@ -199,11 +211,11 @@ Auerbach, Str. des Friedens 42 → <strong>AE-StrDesFriedens42</strong></pre>
         </div>
       </div>
       
-      <div id="panel-166-0-0-15" class="so-panel widget widget_sow-image" data-index="15" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
-        [siteorigin_widget class="SiteOrigin_Widget_Image_Widget"]<input type="hidden" value="{&quot;instance&quot;:{&quot;image&quot;:180,&quot;image_fallback&quot;:&quot;&quot;,&quot;size&quot;:&quot;full&quot;,&quot;align&quot;:&quot;center&quot;,&quot;title&quot;:&quot;&quot;,&quot;title_position&quot;:&quot;hidden&quot;,&quot;alt&quot;:&quot;&quot;,&quot;url&quot;:&quot;&quot;,&quot;bound&quot;:true,&quot;full_width&quot;:true,&quot;_sow_form_id&quot;:&quot;57473084bc19b&quot;,&quot;new_window&quot;:false},&quot;args&quot;:{&quot;before_widget&quot;:&quot;<div id=\&quot;panel-166-0-0-15\&quot; class=\&quot;so-panel widget widget_sow-image\&quot; data-index=\&quot;15\&quot; data-style=\&quot;{&quot;background_display&quot;:&quot;tile&quot;}\&quot; >&quot;,&quot;after_widget&quot;:&quot;<\/div>&quot;,&quot;before_title&quot;:&quot;<h3 class=\&quot;widget-title\&quot;>&quot;,&quot;after_title&quot;:&quot;<\/h3>&quot;,&quot;widget_id&quot;:&quot;widget-0-0-15&quot;}}" />[/siteorigin_widget]
+      <div id="panel-166-0-0-17" class="so-panel widget widget_sow-image" data-index="17" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+        [siteorigin_widget class="SiteOrigin_Widget_Image_Widget"]<input type="hidden" value="{&quot;instance&quot;:{&quot;image&quot;:180,&quot;image_fallback&quot;:&quot;&quot;,&quot;size&quot;:&quot;full&quot;,&quot;align&quot;:&quot;center&quot;,&quot;title&quot;:&quot;&quot;,&quot;title_position&quot;:&quot;hidden&quot;,&quot;alt&quot;:&quot;&quot;,&quot;url&quot;:&quot;&quot;,&quot;bound&quot;:true,&quot;full_width&quot;:true,&quot;_sow_form_id&quot;:&quot;57473084bc19b&quot;,&quot;new_window&quot;:false},&quot;args&quot;:{&quot;before_widget&quot;:&quot;<div id=\&quot;panel-166-0-0-17\&quot; class=\&quot;so-panel widget widget_sow-image\&quot; data-index=\&quot;17\&quot; data-style=\&quot;{&quot;background_display&quot;:&quot;tile&quot;}\&quot; >&quot;,&quot;after_widget&quot;:&quot;<\/div>&quot;,&quot;before_title&quot;:&quot;<h3 class=\&quot;widget-title\&quot;>&quot;,&quot;after_title&quot;:&quot;<\/h3>&quot;,&quot;widget_id&quot;:&quot;widget-0-0-17&quot;}}" />[/siteorigin_widget]
       </div>
       
-      <div id="panel-166-0-0-16" class="so-panel widget widget_sow-editor" data-index="16" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-166-0-0-18" class="so-panel widget widget_sow-editor" data-index="18" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="so-widget-sow-editor so-widget-sow-editor-base">
           <h3 class="widget-title">
             Expert Mode
@@ -219,7 +231,7 @@ Auerbach, Str. des Friedens 42 → <strong>AE-StrDesFriedens42</strong></pre>
         </div>
       </div>
       
-      <div id="panel-166-0-0-17" class="so-panel widget widget_sow-editor" data-index="17" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
+      <div id="panel-166-0-0-19" class="so-panel widget widget_sow-editor" data-index="19" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="so-widget-sow-editor so-widget-sow-editor-base">
           <h3 class="widget-title">
             An’s Internet anschließen
@@ -235,8 +247,8 @@ Auerbach, Str. des Friedens 42 → <strong>AE-StrDesFriedens42</strong></pre>
         </div>
       </div>
       
-      <div id="panel-166-0-0-18" class="so-panel widget widget_sow-image panel-last-child" data-index="18" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
-        [siteorigin_widget class="SiteOrigin_Widget_Image_Widget"]<input type="hidden" value="{&quot;instance&quot;:{&quot;image&quot;:257,&quot;image_fallback&quot;:&quot;&quot;,&quot;size&quot;:&quot;full&quot;,&quot;align&quot;:&quot;center&quot;,&quot;title&quot;:&quot;&quot;,&quot;title_position&quot;:&quot;hidden&quot;,&quot;alt&quot;:&quot;&quot;,&quot;url&quot;:&quot;&quot;,&quot;bound&quot;:true,&quot;full_width&quot;:true,&quot;_sow_form_id&quot;:&quot;57794f84e9a54&quot;,&quot;new_window&quot;:false},&quot;args&quot;:{&quot;before_widget&quot;:&quot;<div id=\&quot;panel-166-0-0-18\&quot; class=\&quot;so-panel widget widget_sow-image panel-last-child\&quot; data-index=\&quot;18\&quot; data-style=\&quot;{&quot;background_display&quot;:&quot;tile&quot;}\&quot; >&quot;,&quot;after_widget&quot;:&quot;<\/div>&quot;,&quot;before_title&quot;:&quot;<h3 class=\&quot;widget-title\&quot;>&quot;,&quot;after_title&quot;:&quot;<\/h3>&quot;,&quot;widget_id&quot;:&quot;widget-0-0-18&quot;}}" />[/siteorigin_widget]
+      <div id="panel-166-0-0-20" class="so-panel widget widget_sow-image panel-last-child" data-index="20" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+        [siteorigin_widget class="SiteOrigin_Widget_Image_Widget"]<input type="hidden" value="{&quot;instance&quot;:{&quot;image&quot;:257,&quot;image_fallback&quot;:&quot;&quot;,&quot;size&quot;:&quot;full&quot;,&quot;align&quot;:&quot;center&quot;,&quot;title&quot;:&quot;&quot;,&quot;title_position&quot;:&quot;hidden&quot;,&quot;alt&quot;:&quot;&quot;,&quot;url&quot;:&quot;&quot;,&quot;bound&quot;:true,&quot;full_width&quot;:true,&quot;_sow_form_id&quot;:&quot;57794f84e9a54&quot;,&quot;new_window&quot;:false},&quot;args&quot;:{&quot;before_widget&quot;:&quot;<div id=\&quot;panel-166-0-0-20\&quot; class=\&quot;so-panel widget widget_sow-image panel-last-child\&quot; data-index=\&quot;20\&quot; data-style=\&quot;{&quot;background_display&quot;:&quot;tile&quot;}\&quot; >&quot;,&quot;after_widget&quot;:&quot;<\/div>&quot;,&quot;before_title&quot;:&quot;<h3 class=\&quot;widget-title\&quot;>&quot;,&quot;after_title&quot;:&quot;<\/h3>&quot;,&quot;widget_id&quot;:&quot;widget-0-0-20&quot;}}" />[/siteorigin_widget]
       </div>
     </div>
   </div>
