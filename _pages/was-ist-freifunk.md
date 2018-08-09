@@ -86,7 +86,7 @@ post_date: 2016-05-12 16:32:00
           <div class="siteorigin-widget-tinymce textwidget">
             <ul>
               <li class="widget-title">
-                SSID: <strong>vogtland.freifunk.net</strong><br /><ul>
+                SSID: <strong>vogtland.freifunk.net</strong> <ul>
                   <li>
                     <span class="body-text-content">hier gibt es IPs und Clients können sich verbinden</span>
                   </li>
@@ -99,7 +99,7 @@ post_date: 2016-05-12 16:32:00
             
             <ul>
               <li>
-                <span class="body-text-content">SSID: <strong>peer.vogtland.freifunk.net</strong></span><ul>
+                <span class="body-text-content">MeshID: <strong>sjGGQhEmPz8HqC2u2dyi-</strong>* </span> <ul>
                   <li>
                     <span class="body-text-content">hier verbinden sich die Router untereinander</span>
                   </li>
@@ -110,7 +110,7 @@ post_date: 2016-05-12 16:32:00
                     <span class="body-text-content">IPs werden nur oberhalb von batman-adv verteilt (Dein Client-Gerät müsste also batman-adv unterstützen)</span>
                   </li>
                   <li>
-                    <span class="body-text-content">läuft im IBSS/Ad-hoc-Modus</span>
+                    <span class="body-text-content">läuft im 802.11s-Modus (ohne Forwarding)</span>
                   </li>
                 </ul>
               </li>
