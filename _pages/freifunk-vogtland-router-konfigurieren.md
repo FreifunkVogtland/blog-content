@@ -79,20 +79,22 @@ post_date: 2016-05-26 19:24:49
           <div class="siteorigin-widget-tinymce textwidget">
             <div class="siteorigin-widget-tinymce textwidget">
               <div class="siteorigin-widget-tinymce textwidget">
-                <p>
-                  Als erstes musst du deinem Router einen Namen geben. Im Freifunk Vogtland bennenen wir die Router immer nach einem speziellen Schema: abgekürzter Name der Stadt/Gemeinde + Bindestrich + Straßenname + Hausnummer. Eine Übersicht mit den Gemeinden im Vogtland befindet sich in unserer Anleitung zum richtigen <a href="https://vogtland.freifunk.net/router-richtig-benennen/">Benennen der Freifunk-Knoten</a>.
-                </p>
-                
-                <h3>
-                  Beispiel
-                </h3>
-                
-                <pre>Plauen, Rädelstraße 7 → <strong>PL-Raedel7</strong>
+                <div class="siteorigin-widget-tinymce textwidget">
+                  <p>
+                    Als erstes musst du deinem Router einen Namen geben. Im Freifunk Vogtland bennenen wir die Router immer nach einem speziellen Schema: abgekürzter Name der Stadt/Gemeinde + Bindestrich + Straßenname + Hausnummer. Eine Übersicht mit den Gemeinden im Vogtland befindet sich in unserer Anleitung zum richtigen <a href="https://vogtland.freifunk.net/router-richtig-benennen/">Benennen der Freifunk-Knoten</a>.
+                  </p>
+                  
+                  <h3>
+                    Beispiel
+                  </h3>
+                  
+                  <pre>Plauen, Rädelstraße 7&nbsp;→ <strong>PL-Raedel7</strong>
 Auerbach, Str. des Friedens 42 → <strong>AE-StrDesFriedens42</strong></pre>
-                
-                <p>
-                  Wenn du noch zusätzliche Informationen anfügen möchtest (z.B. "<strong>OG</strong>" oder "<strong>FamMueller</strong>"), trenne diese bitte ebenfalls mit einem Bindestrich.
-                </p>
+                  
+                  <p>
+                    Wenn du noch zusätzliche Informationen anfügen möchtest (z.B. "<strong>OG</strong>" oder "<strong>FamMueller</strong>"), trenne diese bitte ebenfalls mit einem Bindestrich.
+                  </p>
+                </div>
               </div>
             </div>
           </div>
@@ -108,9 +110,11 @@ Auerbach, Str. des Friedens 42 → <strong>AE-StrDesFriedens42</strong></pre>
           <div class="siteorigin-widget-tinymce textwidget">
             <div class="siteorigin-widget-tinymce textwidget">
               <div class="siteorigin-widget-tinymce textwidget">
-                <p>
-                  Nur Knoten in der selben Domäne können miteinander reden und eine falsche Einstellung führt zu Störungen bei der Bereitstellung des Netzzuganges. Daher ist es unverzichtbar, dass man hier die richtige Gemeinde bzw. Stadt einstellt. Eine Übersicht mit den Gemeinden im Vogtland befindet sich in unserer Anleitung zum richtigen <a href="https://vogtland.freifunk.net/router-richtig-benennen/" target="_blank" rel="noopener">Benennen der Freifunk-Knoten</a>.
-                </p>
+                <div class="siteorigin-widget-tinymce textwidget">
+                  <p>
+                    Nur Knoten in der selben Domäne können miteinander reden und eine falsche Einstellung führt zu Störungen bei der Bereitstellung des Netzzuganges. Daher ist es unverzichtbar, dass man hier die richtige Gemeinde bzw. Stadt einstellt. Eine Übersicht mit den Gemeinden im Vogtland befindet sich in unserer Anleitung zum richtigen <a href="https://vogtland.freifunk.net/router-richtig-benennen/" target="_blank" rel="noopener">Benennen der Freifunk-Knoten</a>.
+                  </p>
+                </div>
               </div>
             </div>
           </div>
@@ -130,9 +134,11 @@ Auerbach, Str. des Friedens 42 → <strong>AE-StrDesFriedens42</strong></pre>
           <div class="siteorigin-widget-tinymce textwidget">
             <div class="siteorigin-widget-tinymce textwidget">
               <div class="siteorigin-widget-tinymce textwidget">
-                <p>
-                  Hiermit erlaubst du deinem Freifunk-Router über deinen Internetanschluss eine (sichere) Verbindung ins Internet herzustellen. Wir empfehlen diese Option in jedem Fall aktiviert zu lassen. Es kann auf keinen Fall schaden! Wenn kein Netzwerkkabel an ihm angeschlossen wird, dann hat er einfach keinen eigenen Internetzugang. Der Zugang zum Internet ist dann aber nur möglich, wenn mindestens bei einem der erreichbaren Freifunk-Router in deiner Nähe die Option aktiviert ist und dieser eine Verbindung mit dem Internet hat.
-                </p>
+                <div class="siteorigin-widget-tinymce textwidget">
+                  <p>
+                    Hiermit erlaubst du deinem Freifunk-Router über deinen Internetanschluss eine (sichere) Verbindung ins Internet herzustellen. Wir empfehlen diese Option in jedem Fall aktiviert zu lassen. Es kann auf keinen Fall schaden! Wenn kein Netzwerkkabel an ihm angeschlossen wird, dann hat er einfach keinen eigenen Internetzugang. Der Zugang zum Internet ist dann aber nur möglich, wenn mindestens bei einem der erreichbaren Freifunk-Router in deiner Nähe die Option aktiviert ist und dieser eine Verbindung mit dem Internet hat.
+                  </p>
+                </div>
               </div>
             </div>
           </div>
@@ -148,9 +154,11 @@ Auerbach, Str. des Friedens 42 → <strong>AE-StrDesFriedens42</strong></pre>
           <div class="siteorigin-widget-tinymce textwidget">
             <div class="siteorigin-widget-tinymce textwidget">
               <div class="siteorigin-widget-tinymce textwidget">
-                <p>
-                  Aus unserer Erfahrung heraus ist es nicht notwendig die Begrenzung zu aktivieren. Dein Router wird im alltäglichen Betrieb nicht all-zuviel von deiner Bandbreite in Anspruch nehmen. Solltest du aber trotzdem eine Begrenzung eintragen wollen, setze den Haken “Bandbreite begrenzen” und trage einen Wert in kB ein. Wenn du z.B. eine 16.000er Leitung hast, kannst du ja auf 10.000 begrenzen. Somit hast Du dann 6.000 für dich reserviert. Aber ehrlich: es ist nicht notwendig. Wir haben bei noch keinem die Begrenzung nachträglich einschalten müssen!
-                </p>
+                <div class="siteorigin-widget-tinymce textwidget">
+                  <p>
+                    Aus unserer Erfahrung heraus ist es nicht notwendig die Begrenzung zu aktivieren. Dein Router wird im alltäglichen Betrieb nicht all-zuviel von deiner Bandbreite in Anspruch nehmen. Solltest du aber trotzdem eine Begrenzung eintragen wollen, setze den Haken “Bandbreite begrenzen” und trage einen Wert in kB ein. Wenn du z.B. eine 16.000er Leitung hast, kannst du ja auf 10.000 begrenzen. Somit hast Du dann 6.000 für dich reserviert. Aber ehrlich: es ist nicht notwendig. Wir haben bei noch keinem die Begrenzung nachträglich einschalten müssen!
+                  </p>
+                </div>
               </div>
             </div>
           </div>
@@ -166,23 +174,25 @@ Auerbach, Str. des Friedens 42 → <strong>AE-StrDesFriedens42</strong></pre>
           <div class="siteorigin-widget-tinymce textwidget">
             <div class="siteorigin-widget-tinymce textwidget">
               <div class="siteorigin-widget-tinymce textwidget">
-                <p>
-                  Diese Option sollte ausgewählt werden, um anderen Freifunkern und Interessierten (Gästen!) die Position deines Routers anzuzeigen. Es geht hierbei, wie beim Namen des Knoten, nur um eine Darstellung in der Karte. Danach ist der Router auf der <a href="https://vogtland.freifunk.net/freifunk-vogtland-karte/">Karte</a> zu sehen. Bedenken um die Privatsphäre sollten hier ausnahmsweise keine Rolle spielen, denn du möchtest doch mit vielen ein großes Netzwerk aufbauen.
-                </p>
-                
-                <p>
-                  Nach dem Aktivieren erscheinen drei neue Felder. Eines für den Breitengrad, den Längengrad und die Höhe. Die Ziel-Koordinaten an dem der Router stehen soll, findest du z.B. unter <a href="http://de.mygeoposition.com/" target="_blank" rel="noopener">myGeoPosition</a> . In der Suche einfach die Adresse des Standortes eingeben und die Daten in die Konfiguration übertragen. Bitte achte bei den Werten auf die richtige Schreibweise. Es wird für die „Nachkommastelle“ ein Punkt und kein Komma verwendet. (Beispiel: Falsch = <span class="rad">50,1234; Richtig = 50.1234)</span>
-                </p>
-                
-                <p>
-                  Bitte gib auch die Höhe in Meter über NN + die Höhe der Befestigung deines Routers an. Die Höhenangabe hilft uns dabei, das Netz kontinuierlich zu verbessern. Durch die Angabe der Höhe können wir Rückschlüsse ziehen, wo es sinnvoll ist weitere Router aufzustellen.
-                </p>
-                
-                <h3>
-                  Beispiel für die Höhenangabe
-                </h3>
-                
-                <pre>337.123m NN + Router in der 2. Etage (ca. 5m) ≈ <strong>342</strong></pre>
+                <div class="siteorigin-widget-tinymce textwidget">
+                  <p>
+                    Diese Option sollte ausgewählt werden, um anderen Freifunkern und Interessierten (Gästen!) die Position deines Routers anzuzeigen. Es geht hierbei, wie beim Namen des Knoten, nur um eine Darstellung in der Karte. Danach ist der Router auf der <a href="https://vogtland.freifunk.net/freifunk-vogtland-karte/">Karte</a> zu sehen. Bedenken um die Privatsphäre sollten hier ausnahmsweise keine Rolle spielen, denn du möchtest doch mit vielen ein großes Netzwerk aufbauen.
+                  </p>
+                  
+                  <p>
+                    Nach dem Aktivieren erscheinen drei neue Felder. Eines für den Breitengrad, den Längengrad und die Höhe. Die Ziel-Koordinaten an dem der Router stehen soll, findest du z.B. unter <a href="http://de.mygeoposition.com/" target="_blank" rel="noopener">myGeoPosition</a> . In der Suche einfach die Adresse des Standortes eingeben und die Daten in die Konfiguration übertragen. Bitte achte bei den Werten auf die richtige Schreibweise. Es wird für die „Nachkommastelle“ ein Punkt und kein Komma verwendet. (Beispiel: Falsch = <span class="rad">50,1234; Richtig = 50.1234)</span>
+                  </p>
+                  
+                  <p>
+                    Bitte gib auch die Höhe in Meter über NN + die Höhe der Befestigung deines Routers an. Die Höhenangabe hilft uns dabei, das Netz kontinuierlich zu verbessern. Durch die Angabe der Höhe können wir Rückschlüsse ziehen, wo es sinnvoll ist weitere Router aufzustellen.
+                  </p>
+                  
+                  <h3>
+                    Beispiel für die Höhenangabe
+                  </h3>
+                  
+                  <pre>337.123m NN + Router in der 2. Etage (ca. 5m) ≈ <strong>342</strong></pre>
+                </div>
               </div>
             </div>
           </div>
@@ -202,9 +212,11 @@ Auerbach, Str. des Friedens 42 → <strong>AE-StrDesFriedens42</strong></pre>
           <div class="siteorigin-widget-tinymce textwidget">
             <div class="siteorigin-widget-tinymce textwidget">
               <div class="siteorigin-widget-tinymce textwidget">
-                <p>
-                  Um dich im Zweifelsfall erreichen zu können, kannst du hier beispielsweise deine E-Mail-Adresse angeben, natürlich nur wenn du möchtest.
-                </p>
+                <div class="siteorigin-widget-tinymce textwidget">
+                  <p>
+                    Um dich im Zweifelsfall erreichen zu können, kannst du hier beispielsweise deine E-Mail-Adresse angeben, natürlich nur wenn du möchtest.
+                  </p>
+                </div>
               </div>
             </div>
           </div>
@@ -220,13 +232,15 @@ Auerbach, Str. des Friedens 42 → <strong>AE-StrDesFriedens42</strong></pre>
           <div class="siteorigin-widget-tinymce textwidget">
             <div class="siteorigin-widget-tinymce textwidget">
               <div class="siteorigin-widget-tinymce textwidget">
-                <p>
-                  Bitte kontrolliere noch einmal alle Einstellungen. Man kann sie zwar später wieder ändern, aber das ist viel aufwendiger, als sie eben noch einmal zu kontrollieren.
-                </p>
-                
-                <p>
-                  Alles richtig? Gut! Dann klicke auf „Save & Restart“!
-                </p>
+                <div class="siteorigin-widget-tinymce textwidget">
+                  <p>
+                    Bitte kontrolliere noch einmal alle Einstellungen. Man kann sie zwar später wieder ändern, aber das ist viel aufwendiger, als sie eben noch einmal zu kontrollieren.
+                  </p>
+                  
+                  <p>
+                    Alles richtig? Gut! Dann klicke auf „Save & Restart“!
+                  </p>
+                </div>
               </div>
             </div>
           </div>
@@ -246,9 +260,11 @@ Auerbach, Str. des Friedens 42 → <strong>AE-StrDesFriedens42</strong></pre>
           <div class="siteorigin-widget-tinymce textwidget">
             <div class="siteorigin-widget-tinymce textwidget">
               <div class="siteorigin-widget-tinymce textwidget">
-                <p>
-                  Wenn du nun noch Experteneinstellungen vornehmen möchest, bitte den Router nochmal wie oben beschrieben in den Config-Mode versetzen. Danach können Einstellung, wie Mesh per LAN oder Privates WLAN boosten einstellt werden. Mehr dazu findest du in der <a href="https://gluon.readthedocs.io/en/v2016.1.5/user/getting_started.html">Gluon-Dokumentation</a>. Ansonsten einfach mit dem nächsten Punkt fortfahren.
-                </p>
+                <div class="siteorigin-widget-tinymce textwidget">
+                  <p>
+                    Wenn du nun noch Experteneinstellungen vornehmen möchest, bitte den Router nochmal wie oben beschrieben in den Config-Mode versetzen. Danach können Einstellung, wie Mesh per LAN oder Privates WLAN boosten einstellt werden. Mehr dazu findest du in der <a href="https://gluon.readthedocs.io/en/v2016.1.5/user/getting_started.html">Gluon-Dokumentation</a>. Ansonsten einfach mit dem nächsten Punkt fortfahren.
+                  </p>
+                </div>
               </div>
             </div>
           </div>
@@ -264,17 +280,35 @@ Auerbach, Str. des Friedens 42 → <strong>AE-StrDesFriedens42</strong></pre>
           <div class="siteorigin-widget-tinymce textwidget">
             <div class="siteorigin-widget-tinymce textwidget">
               <div class="siteorigin-widget-tinymce textwidget">
-                <p>
-                  Wenn du am Standort eine Internetverbindung hast, wird der Freifunk-Router nun an deinen Telekom-, Unitymedia- oder „Was_auch_immer“-Anschluss angeschlossen. Dazu verbindest du die blaue Buchse deines Freifunk-Routers mithilfe eines Netzwerkkabels mit deinem Internet-Router.
-                </p>
+                <div class="siteorigin-widget-tinymce textwidget">
+                  <p>
+                    Wenn du am Standort eine Internetverbindung hast, wird der Freifunk-Router nun an deinen Telekom-, Unitymedia- oder „Was_auch_immer“-Anschluss angeschlossen. Dazu verbindest du die blaue Buchse deines Freifunk-Routers mithilfe eines Netzwerkkabels mit deinem Internet-Router.
+                  </p>
+                </div>
               </div>
             </div>
           </div>
         </div>
       </div>
       
-      <div id="panel-166-0-0-20" class="so-panel widget widget_sow-image panel-last-child" data-index="20" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
-        [siteorigin_widget class="SiteOrigin_Widget_Image_Widget"]<input type="hidden" value="{&quot;instance&quot;:{&quot;image&quot;:257,&quot;image_fallback&quot;:&quot;&quot;,&quot;size&quot;:&quot;full&quot;,&quot;align&quot;:&quot;center&quot;,&quot;title&quot;:&quot;&quot;,&quot;title_position&quot;:&quot;hidden&quot;,&quot;alt&quot;:&quot;&quot;,&quot;url&quot;:&quot;&quot;,&quot;bound&quot;:true,&quot;full_width&quot;:true,&quot;_sow_form_id&quot;:&quot;57794f84e9a54&quot;,&quot;new_window&quot;:false},&quot;args&quot;:{&quot;before_widget&quot;:&quot;<div id=\&quot;panel-166-0-0-20\&quot; class=\&quot;so-panel widget widget_sow-image panel-last-child\&quot; data-index=\&quot;20\&quot; data-style=\&quot;{&quot;background_display&quot;:&quot;tile&quot;}\&quot; >&quot;,&quot;after_widget&quot;:&quot;<\/div>&quot;,&quot;before_title&quot;:&quot;<h3 class=\&quot;widget-title\&quot;>&quot;,&quot;after_title&quot;:&quot;<\/h3>&quot;,&quot;widget_id&quot;:&quot;widget-0-0-20&quot;}}" />[/siteorigin_widget]
+      <div id="panel-166-0-0-20" class="so-panel widget widget_sow-image" data-index="20" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+        [siteorigin_widget class="SiteOrigin_Widget_Image_Widget"]<input type="hidden" value="{&quot;instance&quot;:{&quot;image&quot;:257,&quot;image_fallback&quot;:&quot;&quot;,&quot;size&quot;:&quot;full&quot;,&quot;align&quot;:&quot;center&quot;,&quot;title&quot;:&quot;&quot;,&quot;title_position&quot;:&quot;hidden&quot;,&quot;alt&quot;:&quot;&quot;,&quot;url&quot;:&quot;&quot;,&quot;bound&quot;:true,&quot;full_width&quot;:true,&quot;_sow_form_id&quot;:&quot;57794f84e9a54&quot;,&quot;new_window&quot;:false},&quot;args&quot;:{&quot;before_widget&quot;:&quot;<div id=\&quot;panel-166-0-0-20\&quot; class=\&quot;so-panel widget widget_sow-image\&quot; data-index=\&quot;20\&quot; data-style=\&quot;{&quot;background_display&quot;:&quot;tile&quot;}\&quot; >&quot;,&quot;after_widget&quot;:&quot;<\/div>&quot;,&quot;before_title&quot;:&quot;<h3 class=\&quot;widget-title\&quot;>&quot;,&quot;after_title&quot;:&quot;<\/h3>&quot;,&quot;widget_id&quot;:&quot;widget-0-0-20&quot;}}" />[/siteorigin_widget]
+      </div>
+      
+      <div id="panel-166-0-0-21" class="so-panel widget widget_sow-editor panel-last-child" data-index="21" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
+        <div class="so-widget-sow-editor so-widget-sow-editor-base">
+          <h3 class="widget-title">
+            Weblinks
+          </h3>
+          
+          <div class="siteorigin-widget-tinymce textwidget">
+            <ul>
+              <li>
+                <a href="https://gluon.readthedocs.io/en/latest/features/configmode.html">Config Mode - Gluon documentation</a>
+              </li>
+            </ul>
+          </div>
+        </div>
       </div>
     </div>
   </div>
