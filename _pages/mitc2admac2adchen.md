@@ -11,7 +11,7 @@ post_date: 2016-05-12 23:42:25
 <div id="pl-32"  class="panel-layout" >
   <div id="pg-32-0"  class="panel-grid panel-no-style" >
     <div id="pgc-32-0-0"  class="panel-grid-cell"  data-weight="1" >
-      <div id="panel-32-0-0-0" class="so-panel widget widget_sow-editor panel-first-child" data-index="0" >
+      <div id="panel-32-0-0-0" class="so-panel widget widget_sow-editor panel-first-child" data-index="0" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
         <div class="so-widget-sow-editor so-widget-sow-editor-base">
           <div class="siteorigin-widget-tinymce textwidget">
             <p>
@@ -43,7 +43,7 @@ post_date: 2016-05-12 23:42:25
             </h2>
             
             <p class="headline">
-              Auf un­se­ren Tref­fen ha­ben wir meist ein paar Rou­ter (<span class="itemreviewed fn">TP-Link TL-WR842ND</span>) mit dabei, welche wir an Interessenten weiter geben. Ein Tref­fen bie­tet dir auch die Mög­lich­keit, bei ei­nem küh­len oder hei­ßen Ge­tränk nütz­li­che Tipps zum op­ti­ma­len Frei­funk-Be­trieb zu er­hal­ten oder of­fe­ne Fra­gen zu klä­ren. Da­bei kannst du auch di­rekt die Com­mu­ni­ty hin­ter Frei­funk Vogtland ken­nen ler­nen und neue Kon­tak­te knüp­fen. Die Ter­mi­ne dazu fin­dest du zuerst auf unserer <a href="https://www.facebook.com/vogtland.freifunk.net" target="_blank">Facebook</a> oder <a href="https://twitter.com/FreifunkV" target="_blank">Twitter</a> Seite. Um uns die Arbeit etwas zu erleichtern, wäre es vor­teil­haft wenn du uns vor­her mit­teilst, dass du an ei­nem Tref­fen teil­nimmst.
+              Auf un­se­ren Tref­fen ha­ben wir meist ein paar Rou­ter (<span class="itemreviewed fn">TP-Link TL-WR842ND</span>) mit dabei, welche wir an Interessenten weiter geben. Ein Tref­fen bie­tet dir auch die Mög­lich­keit, bei ei­nem küh­len oder hei­ßen Ge­tränk nütz­li­che Tipps zum op­ti­ma­len Frei­funk-Be­trieb zu er­hal­ten oder of­fe­ne Fra­gen zu klä­ren. Da­bei kannst du auch di­rekt die Com­mu­ni­ty hin­ter Frei­funk Vogtland ken­nen ler­nen und neue Kon­tak­te knüp­fen. Die Ter­mi­ne dazu fin­dest du zuerst auf unserer <a href="https://www.facebook.com/vogtland.freifunk.net" target="_blank" rel="noopener">Facebook</a> oder <a href="https://twitter.com/FreifunkV" target="_blank" rel="noopener">Twitter</a> Seite. Um uns die Arbeit etwas zu erleichtern, wäre es vor­teil­haft wenn du uns vor­her mit­teilst, dass du an ei­nem Tref­fen teil­nimmst.
             </p>
             
             <h2>
@@ -59,7 +59,7 @@ post_date: 2016-05-12 23:42:25
             </p>
             
             <p>
-              Un­se­re Firm­ware fin­dest du für alle unterstützten Router un­ter <a href="http://firmware.freifunk-vogtland.net/firmware/" target="_blank">http://firmware.freifunk-vogtland.net/firmware/</a>. Die Freifunk Firmware basiert auf der Open Source Router Firmware OpenWRT. Die Anleitung zum installieren der Firmware ist für jeden Router individuell. Genauere Informationen, wie du die Firmware auf deinem Router installierst, findest du <a href="https://wiki.openwrt.org/de/doc/howto/generic.flashing" target="_blank">hier</a>.
+              Un­se­re Firm­ware fin­dest du für alle unterstützten Router un­ter <a href="http://firmware.freifunk-vogtland.net/firmware/" target="_blank" rel="noopener">http://firmware.freifunk-vogtland.net/firmware/</a>. Die Freifunk Firmware basiert auf der Open Source Router Firmware OpenWRT. Die Anleitung zum installieren der Firmware ist für jeden Router individuell. Genauere Informationen, wie du die Firmware auf deinem Router installierst, findest du <a href="https://wiki.openwrt.org/de/doc/howto/generic.flashing" target="_blank" rel="noopener">hier</a>.
             </p>
             
             <h2>
@@ -67,7 +67,7 @@ post_date: 2016-05-12 23:42:25
             </h2>
             
             <p>
-              Unsere interne Kom­mu­ni­ka­ti­on läuft haupt­säch­lich über un­se­re Mai­ling­lis­te - eine Art gro­ßer E-Mail-Ver­tei­ler. Um dich für die Mai­ling­lis­te zu re­gis­trie­ren, kontaktiere uns bitte <a href="http://vogtland.freifunk.net/?page_id=251">hier</a>.
+              Unsere interne Kom­mu­ni­ka­ti­on läuft haupt­säch­lich über un­se­re Mai­ling­lis­te - eine Art gro­ßer E-Mail-Ver­tei­ler. Um dich für die Mai­ling­lis­te zu re­gis­trie­ren, kontaktiere uns bitte <a href="https://vogtland.freifunk.net/kontakt/">hier</a>.
             </p>
             
             <h2>
