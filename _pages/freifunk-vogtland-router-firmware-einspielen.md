@@ -27,9 +27,9 @@ post_date: 2018-08-04 17:11:42
             
             <span class="itemreviewed fn"> mit originaler Firmware werden im <a href="https://wiki.freifunk.net/Freifunk_Firmware_Gluon/Installieren">Freifunk Wiki</a> bereitgestellt. </span>Für die verschiedenen Geräte angepasste Versionen der im Freifunk Vogtland eingesetzte Firmware, befinden sich auf <a href="http://firmware.freifunk-vogtland.net/firmware/stable/">firmware.freifunk-vogtland.net</a>. In den meisten Fällen wird ein sogenanntes <strong>factory</strong>-Image benötigt. <span class="itemreviewed fn">Falls du auf deinem Router bereits eine andere Freifunk Firmware, oder eine offene Router Firmware wie OpenWRT installiert hast, benutze bitte ein "<a href="http://firmware.freifunk-vogtland.net/firmware/stable/sysupgrade/" target="_blank" rel="noopener">sysupgrade</a>" anstelle des "factory" Firmware Image. Hierbei muss unbedingt beachtet werden, dass man die Konfiguration beim Updaten nicht übernehmen lassen darf.</span> <h2>
               Konfiguration
-            </h2> Nun kannst du deinen Router noch konfigurieren, sodass er auf der Freifunk-Karte angezeigt wird, oder direkt an das Internet anschließen und nutzen. Wenn du deinen Router noch richtig konfigurierst, hilfst du uns dabei das Netz zu planen und zu optimieren, zeigst anderen wo sich dein Router befindet und siehst selbst, wie und wann dein Router genutzt wird. Das Konfigurieren deines Routers ist ganz einfach, eine Anleitung dazu findest du 
+            </h2> Nun kannst du deinen Router noch konfigurieren, sodass er auf der Freifunk-Karte angezeigt wird, oder direkt an das Internet anschließen und nutzen. Wenn du deinen Router noch richtig konfigurierst, hilfst du uns dabei das Netz zu planen und zu optimieren, zeigst anderen wo sich dein Router befindet und siehst selbst, wie und wann dein Router genutzt wird. Das Konfigurieren deines Routers ist ganz einfach, eine 
             
-            <a href="https://vogtland.freifunk.net/freifunk-vogtland-router-konfigurieren/">auf dieser Seite</a>.   <h2>
+            <a href="https://vogtland.freifunk.net/freifunk-vogtland-router-konfigurieren/">Anleitung dazu haben wir bereitgestellt</a>.   <h2>
               Fragen?
             </h2> Solltest Du Fragen oder Probleme haben oder Einträge deines Knoten ändern wollen, 
             
