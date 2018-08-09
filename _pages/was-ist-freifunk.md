@@ -2,51 +2,156 @@
 ID: 20
 post_title: Was ist Freifunk?
 author: andre
-post_date: 2016-05-12 16:32:00
 post_excerpt: ""
 layout: page
-permalink: http://vogtland.freifunk.net/?page_id=20
+permalink: >
+  https://vogtland.freifunk.net/was-ist-freifunk/
 published: true
-panels_data:
-  - |
-    a:3:{s:7:"widgets";a:8:{i:0;a:6:{s:5:"title";s:0:"";s:4:"text";s:626:"<p>Die Vision von Freifunk ist die Verbreitung freier Netzwerke, die Demokratisierung der Kommunikationsmedien und die Förderung lokaler Sozialstrukturen. Durch die Vernetzung ganzer Stadtteile wollen wir der digitalen Spaltung entgegenwirken und freie unabhängige Netzwerkstrukturen aufbauen. Konkret hat sich Freifunk zum Ziel gesetzt, offene WLAN-Netze einzurichten und diese miteinander zu verbinden. Dies ermöglicht einen freien Datenverkehr “durch die Luft” in der ganze Stadt innerhalb des Freifunk-Netzes. Freifunk ist somit eine offene nicht-kommerzielle hierarchielose Initiative für freie Funknetzwerke.</p>";s:20:"text_selected_editor";s:7:"tinymce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"58a4c01aa3c84";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:9:"widget_id";s:36:"e63c4836-8924-469f-a956-71fa005a7c77";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:1;a:6:{s:5:"title";s:26:"Wie funktioniert Freifunk?";s:4:"text";s:530:"<p>Über das Freifunk WLAN-Netzwerk kann das Internet genutzt werden. Jeder Freifunk-Router mit direktem Internetzugang baut einen sogenannten VPN-Tunnel zu Servern des Freifunk Vogtland auf. Durch diese Tunnel wird der gesamte Datenverkehr gebündelt an das Backbone des Freifunk Rheinland übertragen. Die einzelnen Routerbetreiber sind anhand der übertragenen Daten nicht identifizierbar oder rückverfolgbar. Die sogenannte Störerhaftung kann die Routerbetreiber die ihren Internetanschluß teilenalso nicht betreffen. </p>";s:20:"text_selected_editor";s:7:"tinymce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"58a4c19da2598";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:1;s:9:"widget_id";s:36:"a9151bf9-69ed-4e5c-ab96-186f1adcf0c5";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:2;a:13:{s:5:"image";i:222;s:14:"image_fallback";s:0:"";s:4:"size";s:14:"post-thumbnail";s:5:"align";s:6:"center";s:5:"title";s:0:"";s:14:"title_position";s:6:"hidden";s:3:"alt";s:0:"";s:3:"url";s:0:"";s:5:"bound";b:1;s:12:"_sow_form_id";s:13:"58a4c0f53f3d1";s:10:"new_window";b:0;s:10:"full_width";b:0;s:11:"panels_info";a:7:{s:5:"class";s:30:"SiteOrigin_Widget_Image_Widget";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:2;s:9:"widget_id";s:36:"6c213d73-562b-4ea3-8a74-76f6c7c1d1bd";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:3;a:4:{s:5:"title";s:23:"Das „Mesh“-Netzwerk";s:4:"text";s:0:"";s:6:"filter";b:0;s:11:"panels_info";a:7:{s:5:"class";s:14:"WP_Widget_Text";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:3;s:9:"widget_id";s:36:"754e9767-c30a-430c-ab29-84a5ade1856b";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:4;a:13:{s:5:"image";i:21;s:14:"image_fallback";s:0:"";s:4:"size";s:4:"full";s:5:"align";s:7:"default";s:5:"title";s:0:"";s:14:"title_position";s:6:"hidden";s:3:"alt";s:0:"";s:3:"url";s:0:"";s:5:"bound";b:1;s:12:"_sow_form_id";s:13:"58a4c06e7f627";s:10:"new_window";b:0;s:10:"full_width";b:0;s:11:"panels_info";a:7:{s:5:"class";s:30:"SiteOrigin_Widget_Image_Widget";s:3:"raw";b:0;s:4:"grid";i:2;s:4:"cell";i:0;s:2:"id";i:4;s:9:"widget_id";s:36:"443cb3d6-af9f-4203-b235-4f12d3d963a7";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:5;a:6:{s:5:"title";s:0:"";s:4:"text";s:401:"<p>Die Grundlage von Freifunk bildet ein sogenanntes <a href="http://de.wikipedia.org/wiki/Vermaschtes_Netz" target="_blank">Mesh</a>-Netzwerk. Alle WLAN-Router im Freifunk-Netz kommunizieren direkt miteinander und bilden ein eigenes Funknetzwerk in der Stadt. Das Freifunk-Netz ist mit dem Internet verbunden und so haben alle Menschen im Freifunk Netz auch direkten Zugriff auf das globale Netz.</p>";s:20:"text_selected_editor";s:7:"tinymce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"58a4c0971fd8e";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:2;s:4:"cell";i:1;s:2:"id";i:5;s:9:"widget_id";s:36:"ca1ce2e0-be2f-4705-9cab-a0cc7ba0f06d";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:6;a:6:{s:5:"title";s:28:"SSID's von Freifunk Vogtland";s:4:"text";s:876:"<ul><li class="widget-title">SSID: <strong>vogtland.freifunk.net</strong><br /><ul><li><span class="body-text-content">hier gibt es IPs und Clients können sich verbinden</span></li><li><span class="body-text-content">ist ein AP-Interface</span></li></ul></li></ul><ul><li><span class="body-text-content">SSID: <strong>peer.vogtland.freifunk.net</strong></span><ul><li><span class="body-text-content">hier verbinden sich die Router untereinander</span></li><li><span class="body-text-content">hier wird nicht direkt IPv(4|6) oberhalb vom Layer 2 gesprochen, sondern erstmal batman-adv als Mesh-Zwischenschicht genutzt</span></li><li><span class="body-text-content">IPs werden nur oberhalb von batman-adv verteilt (Dein Client-Gerät müsste also batman-adv unterstützen)</span></li><li><span class="body-text-content">läuft im IBSS/Ad-hoc-Modus</span></li></ul></li></ul>";s:20:"text_selected_editor";s:7:"tinymce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"58a4c03949790";s:11:"panels_info";a:6:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:4:"grid";i:3;s:4:"cell";i:0;s:2:"id";i:6;s:9:"widget_id";s:36:"771b2993-263c-4821-b77b-8424567a8293";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:7;a:6:{s:5:"title";s:34:"VPN-Endpoint von Freifunk Vogtland";s:4:"text";s:1166:"<p>Um einen effizienten Zugang unseres Freifunk Netzwerkes zum Internet zu gewährleisten, nutzen wir das Backbone des <a href="https://www.freifunk-rheinland.net/">Freifunk Rheinland</a>. Dabei bauen die einzelnen Access Points im Freifunk Vogtland Verbindungen zu unseren redudant vorhanden VPN Servern auf. Von dort aus geht es gebündelt weiter zu den Gateways von Freifunk Rheinland. Sowohl Freifunk Vogtland als auch Freifunk Rheinland nutzt mehrere Standorte gleichzeitig um Redundanz zu gewährleisten. Das Freifunk Rheinland Backbone wiederum ist selbst als Internet Service Provider bei der Bundesnetzagentur registriert.</p><p>Wir als Freifunk Vogtland dürfen die Backbone-Anbindung kostenfrei nutzen, was aber nicht bedeutet, dass das alles kostenlos ist! Die Backbone-Admins stecken sehr viel Zeit und Arbeit in das Projekt und auch die RIPE-Mitgliedschaft muss irgendwie bezahlt werden. Wenn ihr also etwas Geld übrig habt, könnt ihr ganz unkompliziert und steuerlich absetzbar über <a href="https://www.betterplace.org/de/organisations/15037-freifunk-rheinland-e-v">Betterplace</a> an den Freifunk Rheinland spenden. Es kommt auch uns zu gute.</p>";s:20:"text_selected_editor";s:7:"tinymce";s:5:"autop";b:1;s:12:"_sow_form_id";s:13:"58a4c1ec82c41";s:11:"panels_info";a:7:{s:5:"class";s:31:"SiteOrigin_Widget_Editor_Widget";s:3:"raw";b:0;s:4:"grid";i:3;s:4:"cell";i:0;s:2:"id";i:7;s:9:"widget_id";s:36:"24b6f04a-cfc6-4a37-93af-65c73aafc1d1";s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}}s:5:"grids";a:4:{i:0;a:2:{s:5:"cells";i:1;s:5:"style";a:0:{}}i:1;a:2:{s:5:"cells";i:1;s:5:"style";a:0:{}}i:2;a:2:{s:5:"cells";i:2;s:5:"style";a:0:{}}i:3;a:2:{s:5:"cells";i:1;s:5:"style";a:0:{}}}s:10:"grid_cells";a:5:{i:0;a:2:{s:4:"grid";i:0;s:6:"weight";i:1;}i:1;a:2:{s:4:"grid";i:1;s:6:"weight";i:1;}i:2;a:2:{s:4:"grid";i:2;s:6:"weight";d:0.5;}i:3;a:2:{s:4:"grid";i:2;s:6:"weight";d:0.5;}i:4;a:2:{s:4:"grid";i:3;s:6:"weight";i:1;}}}
-vantage_panels_no_legacy:
-  - 'false'
-vantage_metaslider_slider:
-  - ""
-vantage_metaslider_slider_stretch:
-  - "1"
-vantage_menu_icon:
-  - ""
-siteorigin_page_settings:
-  - 'a:6:{s:6:"layout";s:7:"default";s:10:"page_title";b:1;s:15:"masthead_margin";b:1;s:13:"footer_margin";b:1;s:13:"hide_masthead";b:0;s:19:"hide_footer_widgets";b:0;}'
+post_date: 2016-05-12 16:32:00
 ---
-<p>Die Vision von Freifunk ist die Verbreitung freier Netzwerke, die Demokratisierung der Kommunikationsmedien und die Förderung lokaler Sozialstrukturen. Durch die Vernetzung ganzer Stadtteile wollen wir der digitalen Spaltung entgegenwirken und freie unabhängige Netzwerkstrukturen aufbauen. Konkret hat sich Freifunk zum Ziel gesetzt, offene WLAN-Netze einzurichten und diese miteinander zu verbinden. Dies ermöglicht einen freien Datenverkehr “durch die Luft” in der ganze Stadt innerhalb des Freifunk-Netzes. Freifunk ist somit eine offene nicht-kommerzielle hierarchielose Initiative für freie Funknetzwerke.</p>
-<h3 class="widget-title">Wie funktioniert Freifunk?</h3>
-<p>Über das Freifunk WLAN-Netzwerk kann das Internet genutzt werden. Jeder Freifunk-Router mit direktem Internetzugang baut einen sogenannten VPN-Tunnel zu Servern des Freifunk Vogtland auf. Durch diese Tunnel wird der gesamte Datenverkehr gebündelt an das Backbone des Freifunk Rheinland übertragen. Die einzelnen Routerbetreiber sind anhand der übertragenen Daten nicht identifizierbar oder rückverfolgbar. Die sogenannte Störerhaftung kann die Routerbetreiber die ihren Internetanschluß teilenalso nicht betreffen.&nbsp;</p>
-<img src="http://vogtland.freifunk.net/wordpress/wp-content/uploads/2016/06/freifunk-netz.png" width="531" height="380" srcset="http://vogtland.freifunk.net/wordpress/wp-content/uploads/2016/06/freifunk-netz.png 858w, http://vogtland.freifunk.net/wordpress/wp-content/uploads/2016/06/freifunk-netz-300x215.png 300w, http://vogtland.freifunk.net/wordpress/wp-content/uploads/2016/06/freifunk-netz-768x550.png 768w" class="so-widget-image">
-<h3 class="widget-title">Das „Mesh“-Netzwerk</h3>			
-<img src="http://vogtland.freifunk.net/wordpress/wp-content/uploads/2016/05/adhoc_netz_wikipedia.png" width="350" height="168" srcset="http://vogtland.freifunk.net/wordpress/wp-content/uploads/2016/05/adhoc_netz_wikipedia.png 350w, http://vogtland.freifunk.net/wordpress/wp-content/uploads/2016/05/adhoc_netz_wikipedia-300x144.png 300w" class="so-widget-image">
-<p>Die Grundlage von Freifunk bildet ein sogenanntes <a href="http://de.wikipedia.org/wiki/Vermaschtes_Netz" target="_blank">Mesh</a>-Netzwerk. Alle WLAN-Router im Freifunk-Netz kommunizieren direkt miteinander und bilden ein eigenes Funknetzwerk in der Stadt. Das Freifunk-Netz ist mit dem Internet verbunden und so haben alle Menschen im Freifunk Netz auch direkten Zugriff auf das globale Netz.</p>
-<h3 class="widget-title">SSID's von Freifunk Vogtland</h3>
-<ul>
-<li class="widget-title">SSID: <strong>vogtland.freifunk.net</strong>
-<ul>
-<li><span class="body-text-content">hier gibt es IPs und Clients können sich verbinden</span></li>
-<li><span class="body-text-content">ist ein AP-Interface</span></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li><span class="body-text-content">SSID: <strong>peer.vogtland.freifunk.net</strong></span>
-<ul>
-<li><span class="body-text-content">hier verbinden sich die Router untereinander</span></li>
-<li><span class="body-text-content">hier wird nicht direkt IPv(4|6) oberhalb vom Layer 2&nbsp;gesprochen, sondern erstmal batman-adv als Mesh-Zwischenschicht&nbsp;genutzt</span></li>
-<li><span class="body-text-content">IPs werden nur oberhalb von batman-adv verteilt (Dein&nbsp;Client-Gerät müsste also batman-adv unterstützen)</span></li>
-<li><span class="body-text-content">läuft im IBSS/Ad-hoc-Modus</span></li>
-</ul>
-</li>
-</ul>
-<h3 class="widget-title">VPN-Endpoint von Freifunk Vogtland</h3>
-<p>Um einen effizienten Zugang unseres Freifunk Netzwerkes zum Internet zu gewährleisten, nutzen wir das Backbone des <a href="https://www.freifunk-rheinland.net/">Freifunk Rheinland</a>. Dabei bauen die einzelnen Access Points im Freifunk Vogtland Verbindungen zu unseren redudant vorhanden VPN Servern auf. Von dort aus geht es gebündelt weiter zu den Gateways von Freifunk Rheinland. Sowohl Freifunk Vogtland als auch Freifunk Rheinland nutzt mehrere Standorte gleichzeitig um Redundanz zu gewährleisten. Das Freifunk Rheinland Backbone wiederum ist selbst als Internet Service Provider bei der Bundesnetzagentur registriert.</p>
-<p>Wir als Freifunk Vogtland dürfen die Backbone-Anbindung kostenfrei nutzen, was aber nicht bedeutet, dass das alles kostenlos ist! Die Backbone-Admins stecken sehr viel Zeit und Arbeit in das Projekt und auch die RIPE-Mitgliedschaft muss irgendwie bezahlt werden. Wenn ihr also etwas Geld übrig habt, könnt ihr ganz unkompliziert und steuerlich absetzbar über <a href="https://www.betterplace.org/de/organisations/15037-freifunk-rheinland-e-v">Betterplace</a> an den Freifunk Rheinland spenden. Es kommt auch uns zu gute.</p>
+<div id="pl-20"  class="panel-layout" >
+  <div id="pg-20-0"  class="panel-grid panel-no-style" >
+    <div id="pgc-20-0-0"  class="panel-grid-cell"  data-weight="1" >
+      <div id="panel-20-0-0-0" class="so-panel widget widget_sow-editor panel-first-child" data-index="0" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+        <div class="so-widget-sow-editor so-widget-sow-editor-base">
+          <div class="siteorigin-widget-tinymce textwidget">
+            <p>
+              Die Vision von Freifunk ist die Verbreitung freier Netzwerke, die Demokratisierung der Kommunikationsmedien und die Förderung lokaler Sozialstrukturen. Durch die Vernetzung ganzer Stadtteile wollen wir der digitalen Spaltung entgegenwirken und freie unabhängige Netzwerkstrukturen aufbauen. Konkret hat sich Freifunk zum Ziel gesetzt, offene WLAN-Netze einzurichten und diese miteinander zu verbinden. Dies ermöglicht einen freien Datenverkehr “durch die Luft” in der ganze Stadt innerhalb des Freifunk-Netzes. Freifunk ist somit eine offene nicht-kommerzielle hierarchielose Initiative für freie Funknetzwerke.
+            </p>
+          </div>
+        </div>
+      </div>
+      
+      <div id="panel-20-0-0-1" class="so-panel widget widget_sow-editor" data-index="1" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+        <div class="so-widget-sow-editor so-widget-sow-editor-base">
+          <h3 class="widget-title">
+            Wie funktioniert Freifunk?
+          </h3>
+          
+          <div class="siteorigin-widget-tinymce textwidget">
+            <p>
+              Über das Freifunk WLAN-Netzwerk kann das Internet genutzt werden. Jeder Freifunk-Router mit direktem Internetzugang baut einen sogenannten VPN-Tunnel zu Servern des Freifunk Vogtland auf. Durch diese Tunnel wird der gesamte Datenverkehr gebündelt an das Backbone des Freifunk Rheinland übertragen. Die einzelnen Routerbetreiber sind anhand der übertragenen Daten nicht identifizierbar oder rückverfolgbar. Die sogenannte Störerhaftung kann die Routerbetreiber die ihren Internetanschluß teilenalso nicht betreffen. 
+            </p>
+          </div>
+        </div>
+      </div>
+      
+      <div id="panel-20-0-0-2" class="so-panel widget widget_sow-image panel-last-child" data-index="2" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+        [siteorigin_widget class="SiteOrigin_Widget_Image_Widget"]<input type="hidden" value="{&quot;instance&quot;:{&quot;image&quot;:222,&quot;image_fallback&quot;:&quot;&quot;,&quot;size&quot;:&quot;post-thumbnail&quot;,&quot;align&quot;:&quot;center&quot;,&quot;title&quot;:&quot;&quot;,&quot;title_position&quot;:&quot;hidden&quot;,&quot;alt&quot;:&quot;&quot;,&quot;url&quot;:&quot;&quot;,&quot;bound&quot;:true,&quot;_sow_form_id&quot;:&quot;58a4c0f53f3d1&quot;,&quot;new_window&quot;:false,&quot;full_width&quot;:false},&quot;args&quot;:{&quot;before_widget&quot;:&quot;<div id=\&quot;panel-20-0-0-2\&quot; class=\&quot;so-panel widget widget_sow-image panel-last-child\&quot; data-index=\&quot;2\&quot; data-style=\&quot;{&quot;background_display&quot;:&quot;tile&quot;}\&quot; >&quot;,&quot;after_widget&quot;:&quot;<\/div>&quot;,&quot;before_title&quot;:&quot;<h3 class=\&quot;widget-title\&quot;>&quot;,&quot;after_title&quot;:&quot;<\/h3>&quot;,&quot;widget_id&quot;:&quot;widget-0-0-2&quot;}}" />[/siteorigin_widget]
+      </div>
+    </div>
+  </div>
+  
+  <div id="pg-20-1"  class="panel-grid panel-no-style" >
+    <div id="pgc-20-1-0"  class="panel-grid-cell"  data-weight="1" >
+      <div id="panel-20-1-0-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="3" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+        <h3 class="widget-title">
+          Das „Mesh“-Netzwerk
+        </h3>
+        
+        <div class="textwidget">
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div id="pg-20-2"  class="panel-grid panel-no-style" >
+    <div id="pgc-20-2-0"  class="panel-grid-cell"  data-weight="0.5" >
+      <div id="panel-20-2-0-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="4" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+        [siteorigin_widget class="SiteOrigin_Widget_Image_Widget"]<input type="hidden" value="{&quot;instance&quot;:{&quot;image&quot;:21,&quot;image_fallback&quot;:&quot;&quot;,&quot;size&quot;:&quot;full&quot;,&quot;align&quot;:&quot;default&quot;,&quot;title&quot;:&quot;&quot;,&quot;title_position&quot;:&quot;hidden&quot;,&quot;alt&quot;:&quot;&quot;,&quot;url&quot;:&quot;&quot;,&quot;bound&quot;:true,&quot;_sow_form_id&quot;:&quot;58a4c06e7f627&quot;,&quot;new_window&quot;:false,&quot;full_width&quot;:false},&quot;args&quot;:{&quot;before_widget&quot;:&quot;<div id=\&quot;panel-20-2-0-0\&quot; class=\&quot;so-panel widget widget_sow-image panel-first-child panel-last-child\&quot; data-index=\&quot;4\&quot; data-style=\&quot;{&quot;background_display&quot;:&quot;tile&quot;}\&quot; >&quot;,&quot;after_widget&quot;:&quot;<\/div>&quot;,&quot;before_title&quot;:&quot;<h3 class=\&quot;widget-title\&quot;>&quot;,&quot;after_title&quot;:&quot;<\/h3>&quot;,&quot;widget_id&quot;:&quot;widget-2-0-0&quot;}}" />[/siteorigin_widget]
+      </div>
+    </div>
+    
+    <div id="pgc-20-2-1"  class="panel-grid-cell"  data-weight="0.5" >
+      <div id="panel-20-2-1-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="5" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+        <div class="so-widget-sow-editor so-widget-sow-editor-base">
+          <div class="siteorigin-widget-tinymce textwidget">
+            <p>
+              Die Grundlage von Freifunk bildet ein sogenanntes <a href="http://de.wikipedia.org/wiki/Vermaschtes_Netz" target="_blank">Mesh</a>-Netzwerk. Alle WLAN-Router im Freifunk-Netz kommunizieren direkt miteinander und bilden ein eigenes Funknetzwerk in der Stadt. Das Freifunk-Netz ist mit dem Internet verbunden und so haben alle Menschen im Freifunk Netz auch direkten Zugriff auf das globale Netz.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div id="pg-20-3"  class="panel-grid panel-no-style" >
+    <div id="pgc-20-3-0"  class="panel-grid-cell"  data-weight="1" >
+      <div id="panel-20-3-0-0" class="so-panel widget widget_sow-editor panel-first-child" data-index="6" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
+        <div class="so-widget-sow-editor so-widget-sow-editor-base">
+          <h3 class="widget-title">
+            SSID's von Freifunk Vogtland
+          </h3>
+          
+          <div class="siteorigin-widget-tinymce textwidget">
+            <ul>
+              <li class="widget-title">
+                SSID: <strong>vogtland.freifunk.net</strong><br /><ul>
+                  <li>
+                    <span class="body-text-content">hier gibt es IPs und Clients können sich verbinden</span>
+                  </li>
+                  <li>
+                    <span class="body-text-content">ist ein AP-Interface</span>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+            
+            <ul>
+              <li>
+                <span class="body-text-content">SSID: <strong>peer.vogtland.freifunk.net</strong></span><ul>
+                  <li>
+                    <span class="body-text-content">hier verbinden sich die Router untereinander</span>
+                  </li>
+                  <li>
+                    <span class="body-text-content">hier wird nicht direkt IPv(4|6) oberhalb vom Layer 2 gesprochen, sondern erstmal batman-adv als Mesh-Zwischenschicht genutzt</span>
+                  </li>
+                  <li>
+                    <span class="body-text-content">IPs werden nur oberhalb von batman-adv verteilt (Dein Client-Gerät müsste also batman-adv unterstützen)</span>
+                  </li>
+                  <li>
+                    <span class="body-text-content">läuft im IBSS/Ad-hoc-Modus</span>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      
+      <div id="panel-20-3-0-1" class="so-panel widget widget_sow-editor" data-index="7" data-style="{&quot;background_display&quot;:&quot;tile&quot;}" >
+        <div class="so-widget-sow-editor so-widget-sow-editor-base">
+          <h3 class="widget-title">
+            VPN-Endpoint von Freifunk Vogtland
+          </h3>
+          
+          <div class="siteorigin-widget-tinymce textwidget">
+            <p>
+              Um einen effizienten Zugang unseres Freifunk Netzwerkes zum Internet zu gewährleisten, nutzen wir das Backbone des <a href="https://www.freifunk-rheinland.net/">Freifunk Rheinland</a>. Dabei bauen die einzelnen Access Points im Freifunk Vogtland Verbindungen zu unseren redudant vorhanden VPN Servern auf. Von dort aus geht es gebündelt weiter zu den Gateways von Freifunk Rheinland. Sowohl Freifunk Vogtland als auch Freifunk Rheinland nutzt mehrere Standorte gleichzeitig um Redundanz zu gewährleisten. Das Freifunk Rheinland Backbone wiederum ist selbst als Internet Service Provider bei der Bundesnetzagentur registriert.
+            </p>
+            
+            <p>
+              Wir als Freifunk Vogtland dürfen die Backbone-Anbindung kostenfrei nutzen, was aber nicht bedeutet, dass das alles kostenlos ist! Die Backbone-Admins stecken sehr viel Zeit und Arbeit in das Projekt und auch die RIPE-Mitgliedschaft muss irgendwie bezahlt werden. Wenn ihr also etwas Geld übrig habt, könnt ihr ganz unkompliziert und steuerlich absetzbar über <a href="https://www.betterplace.org/de/organisations/15037-freifunk-rheinland-e-v">Betterplace</a> an den Freifunk Rheinland spenden. Es kommt auch uns zu gute.
+            </p>
+          </div>
+        </div>
+      </div>
+      
+      <div id="panel-20-3-0-2" class="so-panel widget widget_sow-editor panel-last-child" data-index="8" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >
+        <div class="so-widget-sow-editor so-widget-sow-editor-base">
+          <h3 class="widget-title">
+            Weblinks
+          </h3>
+          
+          <div class="siteorigin-widget-tinymce textwidget">
+            <ul>
+              <li>
+                <a href="https://freifunk.net/worum-geht-es/">Worum geht's? › freifunk.net</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
