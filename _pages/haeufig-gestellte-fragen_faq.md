@@ -42,12 +42,13 @@ post_date: 2016-10-13 09:59:12
 ## Kann ich meinen Router per Kommando-Zeile konfigurieren? Ja, das geht. Eine Liste aller Befehle sowie die Anleitung dazu findet ihr hier: 
 
 <a href="https://github.com/freifunk-gluon/gluon/wiki/Commandline-administration" target="_blank" rel="noopener">https://github.com/freifunk-gluon/gluon/wiki/Commandline-administration</a>   
-## [**Wer ist Freifunk** Vogtland?][8]<section> 
+## [**Wer ist Freifunk** Vogtland?][8]   <section> 
 
 ## Weblinks
 
 *   <a href="https://freifunk.net/worum-geht-es/haufige-fragen/" rel="noopener">Häufige Fragen › freifunk.net</a>
-*   <a href="https://wiki.freifunk.net/Kategorie:FAQ" rel="noopener">Kategorie:FAQ – wiki.freifunk.net</a></section>
+*   <a href="https://wiki.freifunk.net/Kategorie:FAQ" rel="noopener">Kategorie:FAQ – wiki.freifunk.net</a>
+*   <a href="https://gluon.readthedocs.io/en/latest/user/faq.html" rel="noopener">Frequently Asked Questions — Gluon documentation</a></section>
 
  [1]: http://www.bfs.de/DE/themen/emf/hff/anwendung/kabellos/kabellos.html
  [2]: http://www.anwaltskanzlei-feuerhake.de/freifunk
